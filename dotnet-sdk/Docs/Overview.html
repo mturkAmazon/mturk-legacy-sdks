@@ -1,0 +1,408 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>Overview of the Amazon Mechanical Turk SDK for .Net</title><!--
+These style should be copied directly from the common CSS.
+We include them in the document to make distributing files
+easier.
+-->
+
+
+<style type="text/css">
+/* --------------------------------------------- */
+/*  AWS Developer Content Styles                 */
+/* --------------------------------------------- */
+
+body, div, p, td, th {
+    font-family : helvetica,sans-serif, arial;
+    font-size : 12px;
+    color : #000000;
+}
+
+.aws-h1, h1{
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #000000;
+}
+.aws-h2, h2{
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 14px;
+  color: #c60;
+}
+.aws-h3, h3{
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #333333;
+}
+
+/*table ID selector styles*/
+#aws-table {
+  border-top: 1px solid #cccccc;
+  border-left: 1px solid #cccccc;
+  width:95%;
+}
+
+#aws-table td{
+  font-size: 12px;
+  padding: 5px 5px 5px 5px;
+  border-bottom: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+  vertical-align:top;
+}
+
+#aws-table th {
+  font-size: 12px;
+  padding: 5px 5px 5px 5px;
+  border-bottom: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+  vertical-align:top;
+  background-color: #eeeeee;
+  color: #333333;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: left;
+}
+
+/*code, note, and example styles*/
+.programlisting{
+  font-family: "Courier New", Courier, mono;
+  font-size: 12px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: #000066;
+  padding: 5px;
+  background-color: #eff7ff;
+  border: 1px dashed #333;
+  width:75%;
+  display:block;
+}
+.aws-code-inline {
+  font-family: "Courier New", Courier, mono;
+  font-size: 11px;
+}
+.aws-note {
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-left-style: none;
+  border-top-color: #CCCCCC;
+  border-right-color: #CCCCCC;
+  border-bottom-color: #CCCCCC;
+  border-left-color: #CCCCCC;
+  padding: 10px;
+  width:95%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.csharpcode, .csharpcode pre
+{
+  font-size: small;
+  color: black;
+  font-family: Consolas, "Courier New", Courier, Monospace;
+  background-color: #eff7ff;
+  /*white-space: pre;*/
+}
+
+.csharpcode pre { margin: 0em; }
+
+.csharpcode .rem { color: #008000; }
+
+.csharpcode .kwrd { color: #0000ff; }
+
+.csharpcode .str { color: #006080; }
+
+.csharpcode .op { color: #0000c0; }
+
+.csharpcode .preproc { color: #cc6633; }
+
+.csharpcode .asp { background-color: #ffff00; }
+
+.csharpcode .html { color: #800000; }
+
+.csharpcode .attr { color: #ff0000; }
+
+.csharpcode .alt
+{
+  background-color: #f4f4f4;
+  width: 100%;
+  margin: 0em;
+}
+
+.csharpcode .lnum { color: #606060; }
+</style></head><body>
+<h1>Overview of the Amazon Mechanical Turk SDK for .Net</h1>
+<p>
+  The Amazon Mechanical Turk SDK for .Net is a library designed to make it easier for you to build solutions leveraging Amazon Mechanical Turk.  The goals of the SDK are:
+  <ul>
+    <li>To abstract you from the "muck" of using web services</li>
+    <li>To simplify using the various Amazon Mechanical Turk APIs</li>
+    <li>To allow you to focus more on solving the business problem and less on managing technical details</li>
+  </ul>
+</p>
+
+Before getting started, you should first review the getting started
+and developer guides for the Amazon Mechanical Turk web service APIs <a href="http://developer.amazonwebservices.com/connect/entry.jspa?externalID=671&categoryID=28">here</a>.
+They provide excellent background information on the various concepts of Amazon Mechanical Turk.
+
+<h2>Table of Contents</h2>
+<ol>
+  <li><a href="#features">Features and Benefits</a></li>
+  <li><a href="#prerequisites">Prerequisites</a></li>
+  <li><a href="#installation">Installing the SDK</a></li>
+  <li><a href="#sandbox">Using the Amazon Mechanical Turk Developer Sandbox for Testing</a></li>
+  <li><a href="#samples">Running the Sample Applications</a></li>
+  <li><a href="#stepbystep">Step-by-step: Creating your first Mechanical Turk application using the SDK for .NET</a></li>
+  <li><a href="#logging">Logging and Debugging</a></li>
+  <li><a href="#developingwithsdk">Development Resources Included in the SDK</a></li>
+  <li><a href="#comments">Comments, Questions, or Feedback</a></li>
+</ol>
+
+<a name="features"/>
+<h2>Features and Benefits</h2>
+The Amazon Mechanical Turk SDK for .Net offers you access to the Amazon Mechanical Turk web services through easy-to-use .Net APIs.
+It increases developer productivity by avoiding web service "muck" like authentication, forming SOAP requests, XML parsing, etc.
+
+<a name="prerequisites"/>
+<h2>Prerequisites</h2>
+To use the SDK and successfully run the samples, you must meet these prerequisites:
+<ul>
+  <li>You must have an Amazon Web Services (AWS) account. You can sign up at the AWS web site: <a href="http://aws.amazon.com" target="_blank">http://aws.amazon.com</a>.</li>
+  <li>You must have an Amazon Mechanical Turk Requester account. Be sure to use the same e-mail address and password you used when creating your Amazon Web Services account. You can sign up at the Requester web site: <a href="http://requester.mturk.com" target="_blank">http://requester.mturk.com</a>.</li>
+  <li>You must have the .Net Framework 2.0 SDK or later.  You can download the .NET Framework 2.0 SDK <a href="http://download.microsoft.com/" target="_blank">here</a>.</li>
+  <li>You must have a .Net development environment such as <a href="http://www.microsoft.com/vstudio">Visual Studio</a> or <a href="http://www.icsharpcode.net/OpenSource/SD/">SharpDevelop</a></li>
+</ul>
+The following instructions assume that you have Visual C# 2010 Express installed.
+<a name="installation"/>
+<h2>Installing the Amazon Mechanical Turk SDK for .Net</h2>
+The installation of the SDK and other required components is simple and requires minimal configuration.
+Simply double-click "setup.exe" and follow the instructions.
+
+<h3>Configure and use the Amazon Mechanical Turk SDK for .Net</h3>
+The following steps are necessary to configure the SDK for use in the <a href="#samples">provided sample applications</a>.
+<ol>
+
+<li>Configure the SDK to use your AWS identifier information (e.g. with Notepad):<p/>
+  a. Open the following file:
+  <span class="programlisting">[SDK Installation Directory]\src\App.config</span>
+  b. Set the following properties to reflect your AWS identifiers:
+  <span class="programlisting">
+  MechanicalTurk.AccessKeyId=[Your AWS Access Key]<br/>
+  MechanicalTurk.SecretAccessKey=[Your Secret Key]
+  </span>
+  c. Save and close the file.<p />
+  <li>Open the sample projects solution in Visual Studio 2005 by doubleclicking
+  <span class="programlisting">[SDK Installation Directory]\src\samples\MechanicalTurk.Samples.sln</span>
+  <li>Compile and <a href="#samples">run</a> the project in your IDE.</li>
+</ol>
+
+<a name="sandbox"/>
+<h2>Using the Amazon Mechanical Turk Developer Sandbox for Testing</h2>
+
+By default, the SDK for .Net is configured to work against the Developer Sandbox (<a href="http://sandbox.mturk.com">http://sandbox.mturk.com</a>).  The Developer Sandbox is a simulated environment that allows developers to test their Amazon Mechanical Turk solutions for free.<p/>
+
+HITs by default will be created in the Developer Sandbox environment.  To view these created HITs, go to the Developer Sandbox worker site (<a href="http://workersandbox.mturk.com">http://workersandbox.mturk.com</a>).<p/>
+
+To configure the SDK to work against the Production site (<a href="http://www.mturk.com">http://www.mturk.com</a>):
+<ol>
+  <li>Open the application configuration file:<br/>
+    <span class="programlisting">App.config</span></li>
+  <li>Modify the "MechanicalTurk.ServiceEndpoint" application setting to point to:<br/>
+    <span class="programlisting">https://mechanicalturk.sandbox.amazonaws.com?Service=AWSMechanicalTurkRequester</span></li>
+</ol>
+
+Note: When creating HITs on the Production site, you will need to have a funded Amazon Mechanical Turk account. Visit the following link to fund your account: <a href="http://requester.mturk.com/mturk/youraccount">http://requester.mturk.com/mturk/youraccount</a>.
+
+<a name="samples"/>
+<h2>Running the Sample Applications</h2>
+Seven samples have been installed with the SDK and are located here:<br/>
+<span class="programlisting">[SDK Installation Directory]\src\samples\...</span>
+
+The samples are:
+<ul>
+  <li><b>HelloWorld:</b> With this sample application, you create a HIT that asks a simple question, "What is the weather like right now in Seattle, WA?"</li>
+  <li><b>SimpleSurvey:</b> With this sample application, you create a HIT that conducts a quick survey on a worker's political party preferences by loading a question form from a file</li>
+  <li><b>BestImage:</b> With this sample application, you create a HIT that asks a worker to choose the best image of three given a set of criteria.
+  It shows how to use use question forms with formatted contents</li>
+  <li><b>SiteCategorization:</b> With this sample application, you create HITs asking workers to categorize websites and it demonstrates
+  bulk loading of HITs into Mechanical Turk</li>
+  <li><b>Reviewer:</b> With this sample application, you retrieve and approve the results of your HITs that have been submitted.</li>
+  <li><b>HitReport:</b> With this sample application, you output status information of all your active HITs to the console.</li>
+  <li><b>CreateHitUI:</b> With this sample WinForms application, you can interactively create HITs and view them as they are appear on the Mechanical Turk Worker website.</li>
+  <li><b>ReviewPolicy:</b> With this sample application, you can attach a Review Policy to your HIT and setup Approving/Rejecting your HITs automatically.</li>
+</ul>
+
+Running the samples requires that you have the AWS identifier information configured as described in <a href="#installation">this step</a>.
+<p/>
+To run a specific sample, right-click on it in the Solution Explorer window of Visual Studio and
+select "Set as StartUp Project". Then press F5 to debug or Ctrl+F5 to run the sample without debugging.<p/>
+The default StartUp Project is configured to be the <strong>CreateHitUI</strong> sample application.
+
+<a name="stepbystep"/>
+<h2>Step-by-step: Creating your first Mechanical Turk application using the SDK for .NET</h2>
+The following is a step-by-step guide outlining how to create a first Mechanical Turk application to create a HIT.
+It assumes that you have Visual Studio 2005 installed and are familiar with C#.
+<ol>
+  <li>Open Visual Studio 2005</li>
+  <li>Create a new project (File->New->Project)</li>
+  <li>Select "Visual C#->Console application" and click "OK"</li>
+  <li>Add an application configuration file (Project->Add New Item->Application Configuration File)</li>
+  <li>Open the App.config file and enter your Amazon Web Service credentials:</br>
+  <span class="programlisting">
+<!-- code formatted by http://manoli.net/csharpformat/ -->
+<pre class="csharpcode">
+<span class="kwrd">&lt;?</span><span class="html">xml</span> <span class="attr">version</span><span class="kwrd">="1.0"</span> <span class="attr">encoding</span><span class="kwrd">="utf-8"</span> ?<span class="kwrd">&gt;</span>
+<span class="kwrd">&lt;</span><span class="html">configuration</span><span class="kwrd">&gt;</span>
+  <span class="kwrd">&lt;</span><span class="html">appSettings</span><span class="kwrd">&gt;</span>
+    <span class="kwrd">&lt;</span><span class="html">add</span> <span class="attr">key</span><span class="kwrd">="MechanicalTurk.ServiceEndpoint"</span> <span class="attr">value</span><span class="kwrd">="https://mechanicalturk.sandbox.amazonaws.com?Service=AWSMechanicalTurkRequester"</span><span class="kwrd">/&gt;</span>
+    <span class="kwrd">&lt;</span><span class="html">add</span> <span class="attr">key</span><span class="kwrd">="MechanicalTurk.AccessKeyId"</span> <span class="attr">value</span><span class="kwrd">="[Your access key ID here]"</span><span class="kwrd">/&gt;</span>
+    <span class="kwrd">&lt;</span><span class="html">add</span> <span class="attr">key</span><span class="kwrd">="MechanicalTurk.SecretAccessKey"</span> <span class="attr">value</span><span class="kwrd">="[Your secret access key here]"</span><span class="kwrd">/&gt;</span>
+  <span class="kwrd">&lt;/</span><span class="html">appSettings</span><span class="kwrd">&gt;</span>
+<span class="kwrd">&lt;/</span><span class="html">configuration</span><span class="kwrd">&gt;</span></pre>
+</span>
+  </li>
+
+  <li>Add a reference to the Amazon Mechanical Turk SDK for .NET assembly<br />
+  To do this, click "Project->Add Reference->Browse" for your project and<br />
+  navigate to
+  <span class="programlisting">
+[SDK Installation Directory]\lib\Amazon.WebServices.Mechanicalturk.dll<br/>
+</span>
+</li>
+
+  <li>Import the SDK namespaces in "Program.cs"<br/>
+<span class="programlisting">
+<!-- code formatted by http://manoli.net/csharpformat/ -->
+<pre class="csharpcode">
+<span class="kwrd">using</span> System;
+<span class="kwrd">using</span> System.Collections.Generic;
+<span class="kwrd">using</span> System.Text;
+<b><span class="kwrd">using</span> Amazon.WebServices.MechanicalTurk;
+<span class="kwrd">using</span> Amazon.WebServices.MechanicalTurk.Domain;</b>
+
+<span class="kwrd">namespace</span> ConsoleApplication1
+{
+    <span class="kwrd">class</span> Program
+    {
+        <span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
+        {
+        }
+    }
+}</pre>
+</span>
+</li>
+<li>Instantiate a SimpleClient instance and create a HIT in your Main method:<br />
+<span class="programlisting">
+<!-- code formatted by http://manoli.net/csharpformat/ -->
+<pre class="csharpcode">
+<span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
+{
+    SimpleClient client = <span class="kwrd">new</span> SimpleClient();
+    HIT h = client.CreateHIT(
+        <span class="str">"My first HIT"</span>,                                                             <span class="rem">// title</span>
+        <span class="str">"This is my first HIT I created to entertain myself"</span>,                       <span class="rem">// description</span>
+        1,                                                                          <span class="rem">// Reward (one dollar)  </span>
+        <span class="str">"What are the top 10 differences between Nietzsche and Schwarzenegger?"</span>,    <span class="rem">// Question</span>
+        1);                                                                         <span class="rem">// # of assignments</span>
+
+        Console.WriteLine(<span class="str">"Created HIT: {0} ({1})"</span>, h.HITId, client.GetPreviewURL(h.HITTypeId));
+        Console.Write(<span class="str">"Press 'Enter' to end ..."</span>);
+        Console.ReadLine();
+}</pre>
+</span>
+</li>
+<li>Compile and run the project (Ctrl+F5). If no errors occured, the output of your application
+should look like:<br />
+<span class="programlisting">
+Created HIT: Y0KZVSXRX31ZYKCDPYH0 (http://workersandbox.mturk.com/mturk/preview?groupId=YWRZ17YQ12J21HYM5WPZ)<br/>
+Press 'Enter' to end ...
+</span>
+</li>
+</ol>
+
+Once you have successfully run this program, your HIT is available for workers to work on. You can utilize the SDK
+now to e.g. track the status of the HITs and accept or reject submitted work for it. The SDK gives you the
+ability to easily integrate Amazon Mechanical Turk in your .Net applications, may it be a windows, web or workflow
+application.
+<p>
+The <a href="http://sandbox.mturk.com/">Amazon Mechanical Turk Sandbox</a>, which the above sample is using, acts as an ideal playground
+for your development efforts. Since no real money is involved, you can use it without business impact to test
+your application. Once you are confident in the quality of your Mechanical Turk application, you can easily deploy
+it by simply changing the Mechanical Turk settings in the application configuration file to interact with the
+production site rather than the sandbox.
+</p>
+A good starting point to learn more about the Mechanical Turk SDK is to look at the samples or to browse the
+<a href="./doc/index.html" target="_blank">SDK documentation</a>.
+<a name="comments"/>
+
+
+<a name="logging"/>
+<h2>Logging and Debugging</h2>
+The SDK for .Net uses .Net trace logging for logging. By default, you can see these log events appearing in
+the output window once you run or debug a project in Visual Studio 2005.
+
+<p></p>Making use of the trace log also enables the developer to listen to log events by implementing a trace
+listener or by configuring an existing trace listener. For more information on .Net trace listeners, see this
+<a href="http://msdn2.microsoft.com/en-us/library/aa983739(VS.71).aspx">site</a> and this <a href="http://msdn2.microsoft.com/en-US/library/system.diagnostics.textwritertracelistener.aspx">site</a>.
+<p></p>
+Also, the log level for the SDK events can be configured in the application configuration file.
+By editing the value for "MechanicalTurk.Log.Level", the logging threshold can be set to one of these values:
+<ol>
+  <li>Debug (1)</li>
+  <li>Info (2)</li>
+  <li>Warn (3)</li>
+  <li>Error (4)</li>
+</ol>
+
+<a name="developingwithsdk"/>
+<h2>Development Resources Included in the SDK</h2>
+The SDK includes the precompiled assemblies, documentation, Intellisense information, and the source code.
+<h3>Location of SDK assembly</h3>
+The assembly required for development has been precompiled and included in the distribution.
+To use it in your project, simply add a reference to
+<span class="programlisting">
+[SDK Installation Directory]\lib\Amazon.WebServices.Mechanicalturk.dll<br/>
+</span>
+No other third-party libraries are needed.
+<h3>Location of documentation</h3>
+The SDK documentation can be found in the following location:
+<span class="programlisting">
+[SDK Installation Directory]\doc
+</span>
+<h3>Location of SDK source code</h3>
+All the source code used to generate the Amazon Mechanical Turk SDK for .Net has been provided for reference.  It can be found in the following location:
+<span class="programlisting">
+[SDK Installation Directory]\src
+</span>
+A solution file (<strong>MechanicalTurk.sln</strong>) has been provided to conveniently load the source files into your IDE.
+<h3>Location of unit test code</h3>
+All the source code used to test the Amazon Mechanical Turk SDK for .Net has been provided for reference.  It can be found in the following location:
+<span class="programlisting">
+[SDK Installation Directory]\src\Amazon.WebServices.MechanicalTurk.Test
+</span>
+<ol>
+  <li>Add the test project file (<strong>Amazon.WebServices.MechanicalTurk.csproj</strong>) to the SDK source solution.</li>
+  <li>To run the tests, you will need to download <a href="http://www.nunit.org/">NUnit</a> and add a reference to the
+  <span class="programlisting">
+  nunit.framework
+  </span>
+  assembly in the test project.</li>
+  <li>Compile the test project.</li>
+  <li>The unit test can then be run with either the console or GUI test runner that
+    is shipped with NUnit. To do this point the test runner to the test assembly located at
+    <span class="programlisting">
+    [SDK Installation Directory]\src\Amazon.WebServices.Mechanicalturk.Test\bin\Amazon.WebServices.Mechanicalturk.Test.exe
+    </span>
+  </li>
+</ol>
+<h2>Comments, Questions or Feedback</h2>
+If you have any comments, questions or feedback on the Amazon Mechanical Turk SDK for .Net or the service in general, please visit the <a href="http://developer.amazonwebservices.com/connect/forum.jspa?forumID=11" target="_blank">Amazon Mechanical Turk discussion forums</a>.
+
+</body></html>

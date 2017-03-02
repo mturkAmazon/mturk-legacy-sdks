@@ -1,0 +1,2783 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/86845/Docs/SDK/Web
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig.html
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkConstants_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkConstants_Members.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_SendTestEmailEventNotification.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_SendTestEmailEventNotification.html
+END
+P_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ServiceResponse.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ServiceResponse.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_ApproveAssignment.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_ApproveAssignment.html
+END
+F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_ApprovalRateQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3195/Docs/SDK/Web/F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_ApprovalRateQualification.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllReviewableHITsIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllReviewableHITsIterator.html
+END
+Hier_N_Amazon_WebServices_MechanicalTurk_Exceptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3195/Docs/SDK/Web/Hier_N_Amazon_WebServices_MechanicalTurk_Exceptions.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Logger.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Logger.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationRequests_3f883dbd.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationRequests_3f883dbd.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_3028992a.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_3028992a.html
+END
+intevent.gif
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/intevent.gif
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidTransportEndpointException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidTransportEndpointException_ctor.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationType.html
+END
+P_Amazon_WebServices_MechanicalTurk_MTurkConfig_AccessKeyId.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_MTurkConfig_AccessKeyId.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_RegisterHITType.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_RegisterHITType.html
+END
+footer.gif
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3195/Docs/SDK/Web/footer.gif
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_ExtendHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_ExtendHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_UpdateQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_UpdateQualificationType.html
+END
+privmethod.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3195/Docs/SDK/Web/privmethod.png
+END
+pubovermethod.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/pubovermethod.png
+END
+privfield.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/privfield.png
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_Help.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_Help.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetHITsForQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetHITsForQualificationType.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_AssignmentDurationInSeconds.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_AssignmentDurationInSeconds.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_Dispose.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_Dispose.html
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Properties.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Properties.html
+END
+tree.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3195/Docs/SDK/Web/tree.js
+END
+expand_all.gif
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3195/Docs/SDK/Web/expand_all.gif
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfAssignmentsCompleted.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfAssignmentsCompleted.html
+END
+P_Amazon_WebServices_MechanicalTurk_MTurkConfig_ServiceEndpoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_MTurkConfig_ServiceEndpoint.html
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkClient_Constructor.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkClient_Constructor.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetRequesterStatistic.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetRequesterStatistic.html
+END
+intinterface.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/intinterface.gif
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfAssignmentsAvailable.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfAssignmentsAvailable.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_ParseErrorException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_ParseErrorException_ctor.html
+END
+privovermethod.gif
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3195/Docs/SDK/Web/privovermethod.gif
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidStateException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidStateException_ctor.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_ILog.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_ILog.html
+END
+P_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ErrorCode.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ErrorCode.html
+END
+tree.css
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3195/Docs/SDK/Web/tree.css
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidStateException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidStateException_Members.html
+END
+protinterface.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/protinterface.png
+END
+privproperty.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/privproperty.gif
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetHIT.html
+END
+protevent.gif
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/protevent.gif
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_DisposeHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_DisposeHIT.html
+END
+pubevent.gif
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/pubevent.gif
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectAlreadyExistsException.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectAlreadyExistsException.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig_Config.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig_Config.html
+END
+copycodeHighlight.gif
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3195/Docs/SDK/Web/copycodeHighlight.gif
+END
+pubenumeration.gif
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3195/Docs/SDK/Web/pubenumeration.gif
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GrantQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GrantQualification.html
+END
+pubdelegate.png
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3195/Docs/SDK/Web/pubdelegate.png
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Warn.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Warn.html
+END
+O_S_T_Amazon_WebServices_MechanicalTurk_XmlUtil_DeserializeXML.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3195/Docs/SDK/Web/O_S_T_Amazon_WebServices_MechanicalTurk_XmlUtil_DeserializeXML.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_QualificationTypeRetryException.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_QualificationTypeRetryException.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_Members.html
+END
+tooltip.htc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3195/Docs/SDK/Web/tooltip.htc
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAccountBalance.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAccountBalance.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Reward.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Reward.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_HITData.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_HITData.html
+END
+pubinterface.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/pubinterface.gif
+END
+T_Amazon_WebServices_MechanicalTurk_QuestionUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_QuestionUtil.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkConfig_GetConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkConfig_GetConfig.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_UpdateQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_UpdateQualificationType.html
+END
+C_Amazon_WebServices_MechanicalTurk_Advanced_HITData_ctor_.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Advanced_HITData_ctor_.html
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkSerializationFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkSerializationFormat.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_DisposeHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_DisposeHIT.html
+END
+ndoc_build.log
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3195/Docs/SDK/Web/ndoc_build.log
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetReviewableHITs.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetReviewableHITs.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationTypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationTypes.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Properties.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Properties.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_MaxAssignments.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_MaxAssignments.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetAssignmentsForHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetAssignmentsForHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_CreateHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_CreateHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GrantQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GrantQualification.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidTransportEndpointException.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidTransportEndpointException.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig_Properties.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig_Properties.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetWorkerAcceptLimit.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetWorkerAcceptLimit.html
+END
+intfield.gif
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/intfield.gif
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_Properties.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_Properties.html
+END
+T_Amazon_WebServices_MechanicalTurk_SimpleClient_Constructor.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_SimpleClient_Constructor.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SendTestEventNotification.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SendTestEventNotification.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectAlreadyExistsException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectAlreadyExistsException_Members.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetWorkerAcceptLimit.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetWorkerAcceptLimit.html
+END
+Hier_N_Amazon_WebServices_MechanicalTurk_Advanced.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3195/Docs/SDK/Web/Hier_N_Amazon_WebServices_MechanicalTurk_Advanced.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITStatus.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITStatus.html
+END
+treenodeplus.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/treenodeplus.gif
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_Methods.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_Methods.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_QualificationTypeRetryException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_QualificationTypeRetryException_Members.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_SendRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_SendRequest.html
+END
+ndoc_qa.log
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3195/Docs/SDK/Web/ndoc_qa.log
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_Members.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ForceExpireHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ForceExpireHIT.html
+END
+P_Amazon_WebServices_MechanicalTurk_MTurkConfig_ValidateQuestionBeforeSending.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_MTurkConfig_ValidateQuestionBeforeSending.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT_1923b522.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT_1923b522.html
+END
+Hier_N_Amazon_WebServices_MechanicalTurk.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3195/Docs/SDK/Web/Hier_N_Amazon_WebServices_MechanicalTurk.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_56cf569e.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_56cf569e.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationRequests.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationRequests.html
+END
+P_Amazon_WebServices_MechanicalTurk_MTurkConfig_SecretAccessKey.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_MTurkConfig_SecretAccessKey.html
+END
+privenumeration.gif
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3195/Docs/SDK/Web/privenumeration.gif
+END
+static.gif
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3195/Docs/SDK/Web/static.gif
+END
+protfield.gif
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/protfield.gif
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_ChangeHITTypeOfHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_ChangeHITTypeOfHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT_1aecc258.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT_1aecc258.html
+END
+pubfield.gif
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/pubfield.gif
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_427edd07.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_427edd07.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationType.html
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_Fields.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_Fields.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidTransportEndpointException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidTransportEndpointException_Members.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_fa24a138.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_fa24a138.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_NoHITsAvailableException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_NoHITsAvailableException_Members.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectDoesNotExistException.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectDoesNotExistException.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationType_5f36dfc2.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationType_5f36dfc2.html
+END
+collapse.gif
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/collapse.gif
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Members.html
+END
+T_Amazon_WebServices_MechanicalTurk_SimpleClient_Properties.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_SimpleClient_Properties.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetPreviewURL.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetPreviewURL.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfSimilarHITs.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfSimilarHITs.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_ExtendHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_ExtendHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationTypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationTypes.html
+END
+M_Amazon_WebServices_MechanicalTurk_XmlUtil_DeserializeXML_251f5c00.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_XmlUtil_DeserializeXML_251f5c00.html
+END
+protdelegate.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/protdelegate.gif
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_SetHITAsReviewing.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_SetHITAsReviewing.html
+END
+F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_LocaleQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3195/Docs/SDK/Web/F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_LocaleQualification.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHIT_16219e3a.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHIT_16219e3a.html
+END
+M_Amazon_WebServices_MechanicalTurk_XmlUtil_Transform.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_XmlUtil_Transform.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITTypeId.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITTypeId.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_SetHITTypeNotification.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_SetHITTypeNotification.html
+END
+drpup.gif
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3195/Docs/SDK/Web/drpup.gif
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_RequesterAnnotation.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_RequesterAnnotation.html
+END
+P_Amazon_WebServices_MechanicalTurk_MTurkConfig_WebsiteURL.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_MTurkConfig_WebsiteURL.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs_804c5d7d.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs_804c5d7d.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_Members.html
+END
+privstructure.gif
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/privstructure.gif
+END
+M_Amazon_WebServices_MechanicalTurk_QuestionUtil_SerializeExternalQuestion.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_QuestionUtil_SerializeExternalQuestion.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllAssignmentsForHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllAssignmentsForHIT.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Expiration.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Expiration.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_SendTestEventNotification.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_SendTestEventNotification.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidParameterValueException.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidParameterValueException.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ParseErrorException.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ParseErrorException.html
+END
+web-contents.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/web-contents.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_ApproveAssignment.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_ApproveAssignment.html
+END
+C_Amazon_WebServices_MechanicalTurk_MTurkConfig_ctor_5c2b0b74.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/86845/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_MTurkConfig_ctor_5c2b0b74.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_AssignQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_AssignQualification.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetFileUploadURL.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetFileUploadURL.html
+END
+N_Amazon_WebServices_MechanicalTurk.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3195/Docs/SDK/Web/N_Amazon_WebServices_MechanicalTurk.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateHITs.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateHITs.html
+END
+F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_ReturnRateQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3195/Docs/SDK/Web/F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_ReturnRateQualification.html
+END
+N_Amazon_WebServices_MechanicalTurk_Exceptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3195/Docs/SDK/Web/N_Amazon_WebServices_MechanicalTurk_Exceptions.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_QualificationRequirements.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_QualificationRequirements.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_DisposeHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_DisposeHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetReviewableHITs_dd312e02.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetReviewableHITs_dd312e02.html
+END
+M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ConvertSingleFreeTextQuestionToXML.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ConvertSingleFreeTextQuestionToXML.html
+END
+intdelegate.gif
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3195/Docs/SDK/Web/intdelegate.gif
+END
+privclass.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/privclass.png
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_b86b3dac.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_b86b3dac.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_PermissionDeniedException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_PermissionDeniedException_ctor.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetWorkerAcceptLimit.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetWorkerAcceptLimit.html
+END
+privdelegate.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/privdelegate.png
+END
+protenumeration.gif
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3195/Docs/SDK/Web/protenumeration.gif
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT_578b19be.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT_578b19be.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ExceedsMaxAssignmentsPerWorkerException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ExceedsMaxAssignmentsPerWorkerException_Members.html
+END
+N_Amazon_WebServices_MechanicalTurk_Advanced.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3195/Docs/SDK/Web/N_Amazon_WebServices_MechanicalTurk_Advanced.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_AccessKeyException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_AccessKeyException_ctor.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Title.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Title.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_UnblockWorker.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_UnblockWorker.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllHITsEnumerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllHITsEnumerator.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SetWorkerAcceptLimit.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SetWorkerAcceptLimit.html
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateQualificationType.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_RejectAssignment.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_RejectAssignment.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationsForQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationsForQualificationType.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetBonusPayments.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetBonusPayments.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT_94514f2c.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT_94514f2c.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationTypesEnumerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationTypesEnumerator.html
+END
+intstructure.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/intstructure.gif
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidParameterValueException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidParameterValueException_ctor.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllHITsIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllHITsIterator.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_SearchQualificationTypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_SearchQualificationTypes.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationsForQualificationType_5b2be494.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationsForQualificationType_5b2be494.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidParameterValueException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidParameterValueException_Members.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ParseErrorException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ParseErrorException_Members.html
+END
+C_Amazon_WebServices_MechanicalTurk_MTurkConfig_ctor_394cbffa.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_MTurkConfig_ctor_394cbffa.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT_843a3b0f.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT_843a3b0f.html
+END
+protstructure.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/protstructure.png
+END
+M_Amazon_WebServices_MechanicalTurk_XmlUtil_SerializeXML_b4c5a2da.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_XmlUtil_SerializeXML_b4c5a2da.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_BlockWorker.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_BlockWorker.html
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkConstants_Fields.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkConstants_Fields.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHIT_6faf732e.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHIT_6faf732e.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_c5dc849a.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_c5dc849a.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_NoHITsAvailableException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_NoHITsAvailableException_ctor.html
+END
+protovermethod.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3195/Docs/SDK/Web/protovermethod.png
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs_fece74d6.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs_fece74d6.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_NotifyWorkers.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_NotifyWorkers.html
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkConstants.html
+END
+Caution.gif
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3195/Docs/SDK/Web/Caution.gif
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_UpdateQualificationScore.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_UpdateQualificationScore.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_60b094d1.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_60b094d1.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationType.html
+END
+pubstructure.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/pubstructure.gif
+END
+drpdown_orange.gif
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3195/Docs/SDK/Web/drpdown_orange.gif
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationsForQualificationType_843a3b0f.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationsForQualificationType_843a3b0f.html
+END
+P_Amazon_WebServices_MechanicalTurk_SimpleClient_Config.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_SimpleClient_Config.html
+END
+intclass.gif
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/intclass.gif
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_CreateQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_CreateQualificationType.html
+END
+privinterface.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/privinterface.png
+END
+privevent.gif
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/privevent.gif
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetFileUploadURL.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetFileUploadURL.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_DisposeQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_DisposeQualificationType.html
+END
+protmethod.gif
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3195/Docs/SDK/Web/protmethod.gif
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetReviewableHITs.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetReviewableHITs.html
+END
+protproperty.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/protproperty.gif
+END
+collapse_all.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/collapse_all.gif
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetHITsForQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetHITsForQualificationType.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewable.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewable.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_PermissionDeniedException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_PermissionDeniedException_Members.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_AssignQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_AssignQualification.html
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_bfee8ebf.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_bfee8ebf.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_ChangeHITTypeOfHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_ChangeHITTypeOfHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewing_20517185.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewing_20517185.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetAccountBalance.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetAccountBalance.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3195/Docs/SDK/Web/index.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkConfig_GetPreviewURL.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkConfig_GetPreviewURL.html
+END
+C_Amazon_WebServices_MechanicalTurk_MTurkClient_ctor_.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_MTurkClient_ctor_.html
+END
+P_Amazon_WebServices_MechanicalTurk_MTurkConfig_EnsureQuestionsAreXmlWrappedBeforeSending.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_MTurkConfig_EnsureQuestionsAreXmlWrappedBeforeSending.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidStateException.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidStateException.html
+END
+protclass.gif
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/protclass.gif
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationRequests.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationRequests.html
+END
+pubclass.gif
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/pubclass.gif
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkClient_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkClient_Members.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_SendTestEventNotification.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_SendTestEventNotification.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_RejectAssignment.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_RejectAssignment.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationRequests_16219e3a.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationRequests_16219e3a.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetBonusPayments.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetBonusPayments.html
+END
+M_Amazon_WebServices_MechanicalTurk_XmlUtil_XmlEncode.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_XmlUtil_XmlEncode.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ChangeHITTypeOfHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ChangeHITTypeOfHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationsForQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationsForQualificationType.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_UnblockWorker.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_UnblockWorker.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_CreateQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_CreateQualificationType.html
+END
+ndoc.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3195/Docs/SDK/Web/ndoc.js
+END
+C_Amazon_WebServices_MechanicalTurk_Advanced_HITData_ctor_3028992a.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Advanced_HITData_ctor_3028992a.html
+END
+privovermethod.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3195/Docs/SDK/Web/privovermethod.png
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RegisterHITType.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RegisterHITType.html
+END
+P_Amazon_WebServices_MechanicalTurk_MTurkConfig_SdkVersion.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_MTurkConfig_SdkVersion.html
+END
+intproperty.gif
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3195/Docs/SDK/Web/intproperty.gif
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationsForQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationsForQualificationType.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationScore.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationScore.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectAlreadyExistsException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectAlreadyExistsException_ctor.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetHIT.html
+END
+protoperator.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/protoperator.gif
+END
+T_Amazon_WebServices_MechanicalTurk_XmlUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_XmlUtil.html
+END
+intenumeration.gif
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3195/Docs/SDK/Web/intenumeration.gif
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetWorkerAcceptLimit.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetWorkerAcceptLimit.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Description.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Description.html
+END
+privproperty.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/privproperty.png
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_RejectQualificationRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_RejectQualificationRequest.html
+END
+pubenumeration.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3195/Docs/SDK/Web/pubenumeration.png
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkClient_Properties.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkClient_Properties.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_SetWorkerAcceptLimit.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_SetWorkerAcceptLimit.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_RevokeQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_RevokeQualification.html
+END
+F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_RejectionRateQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3195/Docs/SDK/Web/F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_RejectionRateQualification.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Debug.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Debug.html
+END
+privmethod.gif
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3195/Docs/SDK/Web/privmethod.gif
+END
+pubovermethod.gif
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/pubovermethod.gif
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT.html
+END
+privfield.gif
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/privfield.gif
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Info.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Info.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig_Members.html
+END
+pubinterface.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/pubinterface.png
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkClient_Methods.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkClient_Methods.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationScore.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationScore.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_NotifyWorkers.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_NotifyWorkers.html
+END
+pubmethod.gif
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/pubmethod.gif
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_Constructor.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_Constructor.html
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkConfig.html
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewing.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewing.html
+END
+M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ConvertMultipleFreeTextQuestionToXML.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ConvertMultipleFreeTextQuestionToXML.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RejectQualificationRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RejectQualificationRequest.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateQualificationType_394cbffa.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateQualificationType_394cbffa.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT_16219e3a.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT_16219e3a.html
+END
+protinterface.gif
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/protinterface.gif
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_RegisterHITType.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_RegisterHITType.html
+END
+security.gif
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/security.gif
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllReviewableHITs.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllReviewableHITs.html
+END
+T_Amazon_WebServices_MechanicalTurk_XmlUtil_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_XmlUtil_Members.html
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHIT.html
+END
+pubdelegate.gif
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3195/Docs/SDK/Web/pubdelegate.gif
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationTypesIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationTypesIterator.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_ForceExpireHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_ForceExpireHIT.html
+END
+F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_AbandonmentRateQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3195/Docs/SDK/Web/F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_AbandonmentRateQualification.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_DisableHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_DisableHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_BlockWorker.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_BlockWorker.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_NoHITsAvailableException.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_NoHITsAvailableException.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_Help.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_Help.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationsForQualificationTypeEnumerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationsForQualificationTypeEnumerator.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Members.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_ForceExpireHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_ForceExpireHIT.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_AccessKeyException.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_AccessKeyException.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GrantBonus.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GrantBonus.html
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs.html
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Members.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllAssignmentsForHITEnumerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllAssignmentsForHITEnumerator.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SearchQualificationTypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SearchQualificationTypes.html
+END
+privenumeration.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3195/Docs/SDK/Web/privenumeration.png
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ApproveAssignment.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ApproveAssignment.html
+END
+protfield.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/protfield.png
+END
+pubfield.png
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/pubfield.png
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_DisableHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_DisableHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllAssignmentsForHITIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllAssignmentsForHITIterator.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_InsufficientFundsException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_InsufficientFundsException_ctor.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Members.html
+END
+T_Amazon_WebServices_MechanicalTurk_QuestionUtil_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_QuestionUtil_Members.html
+END
+M_Amazon_WebServices_MechanicalTurk_XmlUtil_ValidateXML.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_XmlUtil_ValidateXML.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_AutoApprovalDelayInSeconds.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_AutoApprovalDelayInSeconds.html
+END
+T_Amazon_WebServices_MechanicalTurk_XmlUtil_Methods.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_XmlUtil_Methods.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GrantBonus.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GrantBonus.html
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationsForQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationsForQualificationType.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationScore.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationScore.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_UpdateQualificationScore.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_UpdateQualificationScore.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITsForQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITsForQualificationType.html
+END
+protdelegate.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/protdelegate.png
+END
+M_Amazon_WebServices_MechanicalTurk_QuestionUtil_DeserializeQuestionFormAnswers.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_QuestionUtil_DeserializeQuestionFormAnswers.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_AssignQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_AssignQualification.html
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_GetInstance.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_GetInstance.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Methods.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Methods.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_SearchQualificationTypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_SearchQualificationTypes.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_AccessKeyException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_AccessKeyException_Members.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_RevokeQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_RevokeQualification.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_InsufficientFundsException.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_InsufficientFundsException.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetFileUploadURL.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetFileUploadURL.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_DerivedTypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_DerivedTypes.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Constructor.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Constructor.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllReviewableHITsEnumerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllReviewableHITsEnumerator.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITTypeNotification.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITTypeNotification.html
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Methods.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Methods.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfAssignmentsPending.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfAssignmentsPending.html
+END
+privstructure.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/privstructure.png
+END
+C_Amazon_WebServices_MechanicalTurk_SimpleClient_ctor_9c06dece.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_SimpleClient_ctor_9c06dece.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_Dispose.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_Dispose.html
+END
+P_Amazon_WebServices_MechanicalTurk_MTurkClient_Config.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_MTurkClient_Config.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ExceedsMaxAssignmentsPerWorkerException.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ExceedsMaxAssignmentsPerWorkerException.html
+END
+P_Amazon_WebServices_MechanicalTurk_SimpleClient_Proxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_SimpleClient_Proxy.html
+END
+O_S_T_Amazon_WebServices_MechanicalTurk_XmlUtil_SerializeXML.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3195/Docs/SDK/Web/O_S_T_Amazon_WebServices_MechanicalTurk_XmlUtil_SerializeXML.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Question.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Question.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationScore.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationScore.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetReviewableHITs_843a3b0f.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetReviewableHITs_843a3b0f.html
+END
+F_Amazon_WebServices_MechanicalTurk_MTurkConstants_ResponseGroupFullAssignment.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3195/Docs/SDK/Web/F_Amazon_WebServices_MechanicalTurk_MTurkConstants_ResponseGroupFullAssignment.html
+END
+T_Amazon_WebServices_MechanicalTurk_QuestionUtil_Methods.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_QuestionUtil_Methods.html
+END
+T_Amazon_WebServices_MechanicalTurk_SimpleClient.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_SimpleClient.html
+END
+intmethod.gif
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/intmethod.gif
+END
+exp.gif
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3195/Docs/SDK/Web/exp.gif
+END
+greychck.gif
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/greychck.gif
+END
+F_Amazon_WebServices_MechanicalTurk_MTurkConstants_NotificationVersion.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/F_Amazon_WebServices_MechanicalTurk_MTurkConstants_NotificationVersion.html
+END
+C_Amazon_WebServices_MechanicalTurk_MTurkConfig_ctor_.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/86845/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_MTurkConfig_ctor_.html
+END
+P_Amazon_WebServices_MechanicalTurk_MTurkConfig_MaxRetryDelay.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_MTurkConfig_MaxRetryDelay.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT_499c6659.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT_499c6659.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_RejectQualificationRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_RejectQualificationRequest.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewing_16219e3a.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewing_16219e3a.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetTotalNumHITsInAccount.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetTotalNumHITsInAccount.html
+END
+copycode.gif
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/copycode.gif
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetReviewableHITs.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetReviewableHITs.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAvailableAccountBalance.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAvailableAccountBalance.html
+END
+F_Amazon_WebServices_MechanicalTurk_MTurkConstants_ResponseGroupFullHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/F_Amazon_WebServices_MechanicalTurk_MTurkConstants_ResponseGroupFullHIT.html
+END
+ndoc.css
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3195/Docs/SDK/Web/ndoc.css
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RejectAssignment.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RejectAssignment.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Properties.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Properties.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateQualificationType_b01ecc46.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateQualificationType_b01ecc46.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetBonusPayments.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetBonusPayments.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_ToString.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_ToString.html
+END
+M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ReadExternalQuestionFromFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ReadExternalQuestionFromFile.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_CreateHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_CreateHIT.html
+END
+protenumeration.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3195/Docs/SDK/Web/protenumeration.png
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SetHITTypeNotification.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SetHITTypeNotification.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectDoesNotExistException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectDoesNotExistException_Members.html
+END
+M_Amazon_WebServices_MechanicalTurk_XmlUtil_XmlDecode.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_XmlUtil_XmlDecode.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetAccountBalance.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetAccountBalance.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Level.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Level.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_InsufficientFundsException_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_InsufficientFundsException_Members.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GrantQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GrantQualification.html
+END
+P_Amazon_WebServices_MechanicalTurk_MTurkConfig_Proxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_MTurkConfig_Proxy.html
+END
+box.gif
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3195/Docs/SDK/Web/box.gif
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs_ce48341e.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs_ce48341e.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_Help.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_Help.html
+END
+C_Amazon_WebServices_MechanicalTurk_MTurkClient_ctor_9c06dece.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_MTurkClient_ctor_9c06dece.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITReviewStatus.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITReviewStatus.html
+END
+pubproperty.gif
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3195/Docs/SDK/Web/pubproperty.gif
+END
+M_Amazon_WebServices_MechanicalTurk_QuestionUtil_SerializeQuestion.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_QuestionUtil_SerializeQuestion.html
+END
+T_Amazon_WebServices_MechanicalTurk_SimpleClient_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_SimpleClient_Members.html
+END
+note.gif
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3195/Docs/SDK/Web/note.gif
+END
+privclass.gif
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/privclass.gif
+END
+M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ReadQuestionFromFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ReadQuestionFromFile.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_QualificationTypeRetryException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_QualificationTypeRetryException_ctor.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_SearchHITs.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_SearchHITs.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT_5886c7b6.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT_5886c7b6.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_DisableHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_DisableHIT.html
+END
+privdelegate.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3195/Docs/SDK/Web/privdelegate.gif
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkConfig_ToString.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkConfig_ToString.html
+END
+collall.gif
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3195/Docs/SDK/Web/collall.gif
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetRequesterStatistic.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetRequesterStatistic.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Error.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Error.html
+END
+T_Amazon_WebServices_MechanicalTurk_Exceptions_PermissionDeniedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Exceptions_PermissionDeniedException.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GrantBonus.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GrantBonus.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Keywords.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Keywords.html
+END
+F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_SubmissionRateQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3195/Docs/SDK/Web/F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_SubmissionRateQualification.html
+END
+sdkLinkManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3195/Docs/SDK/Web/sdkLinkManager.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_UnblockWorker.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_UnblockWorker.html
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ExtendHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ExtendHIT.html
+END
+C_Amazon_WebServices_MechanicalTurk_SimpleClient_ctor_.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_SimpleClient_ctor_.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SearchHITs.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SearchHITs.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationRequests.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationRequests.html
+END
+privevent.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/privevent.png
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_Members.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_Members.html
+END
+puboperator.gif
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3195/Docs/SDK/Web/puboperator.gif
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationsForQualificationTypeIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationsForQualificationTypeIterator.html
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkClient.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkClient.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationType_bcf292e8.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationType_bcf292e8.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_CreationTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_CreationTime.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT_1efbe3fb.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT_1efbe3fb.html
+END
+protstructure.gif
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/protstructure.gif
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SetHITAsReviewing.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SetHITAsReviewing.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectDoesNotExistException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectDoesNotExistException_ctor.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetAssignmentsForHIT.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetAssignmentsForHIT.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetRequesterStatistic.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetRequesterStatistic.html
+END
+M_Amazon_WebServices_MechanicalTurk_QuestionUtil_DeserializeExternalQuestion.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_QuestionUtil_DeserializeExternalQuestion.html
+END
+drpdown_orange_up.gif
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3195/Docs/SDK/Web/drpdown_orange_up.gif
+END
+treenodedot.gif
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3195/Docs/SDK/Web/treenodedot.gif
+END
+drpdown.gif
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3195/Docs/SDK/Web/drpdown.gif
+END
+T_Amazon_WebServices_MechanicalTurk_SimpleClient_Methods.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_SimpleClient_Methods.html
+END
+M_Amazon_WebServices_MechanicalTurk_XmlUtil_SerializeXML_c0cd93a7.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_XmlUtil_SerializeXML_c0cd93a7.html
+END
+CFW.gif
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3195/Docs/SDK/Web/CFW.gif
+END
+protovermethod.gif
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3195/Docs/SDK/Web/protovermethod.gif
+END
+treenodeminus.gif
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/treenodeminus.gif
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITId.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITId.html
+END
+M_Amazon_WebServices_MechanicalTurk_XmlUtil_DeserializeXML_42a1d385.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_XmlUtil_DeserializeXML_42a1d385.html
+END
+expall.gif
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3195/Docs/SDK/Web/expall.gif
+END
+O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3195/Docs/SDK/Web/O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationType.html
+END
+P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_LifetimeInSeconds.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_LifetimeInSeconds.html
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_NotifyWorkers.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_NotifyWorkers.html
+END
+protclass.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3195/Docs/SDK/Web/protclass.png
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_ExceedsMaxAssignmentsPerWorkerException_ctor.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_ExceedsMaxAssignmentsPerWorkerException_ctor.html
+END
+C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_d460c748.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3195/Docs/SDK/Web/C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_d460c748.html
+END
+pubclass.png
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3195/Docs/SDK/Web/pubclass.png
+END
+greencheck.gif
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3195/Docs/SDK/Web/greencheck.gif
+END
+T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Constructor.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Constructor.html
+END
+M_Amazon_WebServices_MechanicalTurk_MTurkClient_BlockWorker.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_MTurkClient_BlockWorker.html
+END
+privinterface.gif
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3195/Docs/SDK/Web/privinterface.gif
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllHITs.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllHITs.html
+END
+previous_build_details.dat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3195/Docs/SDK/Web/previous_build_details.dat
+END
+M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_b168061c.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_b168061c.html
+END
+M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RevokeQualification.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RevokeQualification.html
+END
+P_Amazon_WebServices_MechanicalTurk_MTurkClient_Throttler.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3195/Docs/SDK/Web/P_Amazon_WebServices_MechanicalTurk_MTurkClient_Throttler.html
+END
+M_Amazon_WebServices_MechanicalTurk_QuestionUtil_DeserializeQuestion.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3195/Docs/SDK/Web/M_Amazon_WebServices_MechanicalTurk_QuestionUtil_DeserializeQuestion.html
+END
+T_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_Methods.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3195/Docs/SDK/Web/T_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_Methods.html
+END

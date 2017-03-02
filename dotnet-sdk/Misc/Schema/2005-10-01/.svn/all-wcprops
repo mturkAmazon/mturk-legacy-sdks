@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3194/Misc/Schema/2005-10-01
+END
+AnswerKey.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3194/Misc/Schema/2005-10-01/AnswerKey.xsd
+END
+QuestionForm.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3194/Misc/Schema/2005-10-01/QuestionForm.xsd
+END
+QuestionFormAnswers.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3194/Misc/Schema/2005-10-01/QuestionFormAnswers.xsd
+END

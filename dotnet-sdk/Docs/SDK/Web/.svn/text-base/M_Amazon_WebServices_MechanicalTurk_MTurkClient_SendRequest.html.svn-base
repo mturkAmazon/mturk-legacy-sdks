@@ -1,0 +1,169 @@
+<html dir="LTR" xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:tool="http://www.microsoft.com/tooltip" xmlns:ndoc="urn:ndoc-preprocess">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=Windows-1252" />
+    <title>SendRequest Method</title>
+    <link rel="stylesheet" type="text/css" href="ndoc.css"> </link>
+    <link rel="stylesheet" type="text/css" href="user.css"> </link>
+    <script type="text/javascript" src="ndoc.js"> </script>
+  </head>
+  <body style="display: none;">
+    <input type="hidden" id="userDataCache" class="userDataStyle" />
+    <input type="hidden" id="hiddenScrollOffset" />
+    <img id="dropDownImage" style="display:none; height:0; width:0;" src="drpdown.gif" />
+    <img id="dropDownHoverImage" style="display:none; height:0; width:0;" src="drpdown_orange.gif" />
+    <img id="collapseImage" style="display:none; height:0; width:0;" src="collapse.gif" />
+    <img id="expandImage" style="display:none; height:0; width:0;" src="exp.gif" />
+    <img id="collapseAllImage" style="display:none; height:0; width:0;" src="collall.gif" />
+    <img id="expandAllImage" style="display:none; height:0; width:0;" src="expall.gif" />
+    <img id="copyImage" style="display:none; height:0; width:0;" src="copycode.gif" />
+    <img id="copyHoverImage" style="display:none; height:0; width:0;" src="copycodeHighlight.gif" />
+    <div id="header">
+      <table width="100%" id="topTable">
+        <tr id="headerTableRow1">
+          <td align="left">
+            <span id="runningHeaderText">.Net SDK Documentation for Amazon Mechanical Turk Requester Service</span>
+          </td>
+        </tr>
+        <tr id="headerTableRow2">
+          <td align="left">
+            <span id="nsrTitle">MTurkClient.SendRequest Method</span>
+          </td>
+        </tr>
+        <tr id="headerTableRow3">
+          <td>
+            <a id="seeAlsoSectionLink" href="#seeAlsoToggle" onclick="OpenSection(seeAlsoToggle)">See Also</a>
+            <a id="exampleSectionLink" href="#codeExampleToggle" onclick="OpenSection(codeExampleToggle)">Example</a>
+          </td>
+        </tr>
+      </table>
+      <table width="100%" id="bottomTable" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>
+            <span onclick="ExpandCollapseAll(toggleAllImage)" style="cursor:default;" onkeypress="ExpandCollapseAll_CheckKey(toggleAllImage)" tabindex="0">
+              <img ID="toggleAllImage" class="toggleAll" src="collall.gif" />
+              <label id="collapseAllLabel" for="toggleAllImage" style="display: none;">
+							Collapse All
+						</label>
+              <label id="expandAllLabel" for="toggleAllImage" style="display: none;">
+							Expand All
+						</label>
+            </span>
+            <span id="languageFilterToolTip" style="cursor:default;" onmouseover="languageFilterImage.src=dropDownHoverImage.src;" onfocusin="languageFilterImage.src=dropDownHoverImage.src;" onmouseout="languageFilterImage.src=dropDownImage.src;" onfocusout="languageFilterImage.src=dropDownImage.src;" tabindex="0">
+              <img id="languageFilterImage" src="drpdown.gif" />
+              <label id="showAllLabel" for="languageFilterImage" style="display: none;">
+				Language Filter: All
+			</label>
+              <label id="multipleLabel" for="languageFilterImage" style="display: none;">
+				Language Filter: Multiple
+			</label>
+              <label id="vbLabel" for="languageFilterImage" style="display: none;">
+				Language Filter: Visual Basic
+			</label>
+              <label id="csLabel" for="languageFilterImage" style="display: none;">
+				Language Filter: C#
+			</label>
+              <label id="cLabel" for="languageFilterImage" style="display: none;">
+				Language Filter: C++
+			</label>
+              <label id="jsharpLabel" for="languageFilterImage" style="display: none;">
+				Language Filter: J#
+			</label>
+              <label id="jsLabel" for="languageFilterImage" style="display: none;">
+				Language Filter: JScript
+			</label>
+            </span>
+          </td>
+        </tr>
+      </table>
+      <span style="display:none" id="languageSpan">
+        <input id="vbDeclarationCheckbox" type="checkbox" name="languageFilter" onClick="SetLanguage(this)" />
+        <label class="languageFilter" for="vbDeclarationCheckbox">
+				Visual Basic (Declaration)
+			</label>
+        <br />
+        <input id="vbUsageCheckbox" type="checkbox" name="languageFilter" onClick="SetLanguage(this)" />
+        <label class="languageFilter" for="vbUsageCheckbox">
+				Visual Basic (Usage)
+			</label>
+        <br />
+        <input id="csCheckbox" type="checkbox" name="languageFilter" onClick="SetLanguage(this)" />
+        <label class="languageFilter" for="csCheckbox">
+				C#
+			</label>
+        <br />
+        <input id="cCheckbox" type="checkbox" name="languageFilter" onClick="SetLanguage(this)" />
+        <label class="languageFilter" for="cCheckbox">
+				C++
+			</label>
+        <br />
+        <input id="jsharpCheckbox" type="checkbox" name="languageFilter" onClick="SetLanguage(this)" />
+        <label class="languageFilter" for="jsharpCheckbox">
+				J#
+			</label>
+        <br />
+        <input id="jsCheckbox" type="checkbox" name="languageFilter" onClick="SetLanguage(this)" />
+        <label class="languageFilter" for="jsCheckbox">
+				JScript
+			</label>
+        <br />
+      </span>
+    </div>
+    <div id="mainSection">
+      <div id="mainBody">
+        <div id="allHistory" class="saveHistory" onsave="saveAll()" onload="loadAll()" />
+        <p>Signs and sends the request and parses errors (if any)</p>
+        <br />
+        <b>Namespace: </b>
+        <a href="N_Amazon_WebServices_MechanicalTurk.html">Amazon.WebServices.MechanicalTurk</a>
+        <br />
+        <b>Assembly: </b>Amazon.WebServices.MechanicalTurk (in Amazon.WebServices.MechanicalTurk.dll)
+		<br /><h1 class="heading"><span onclick="ExpandCollapse(syntaxToggle)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(syntaxToggle)" tabindex="0"><img id="syntaxToggle" class="toggle" name="toggleSwitch" src="collapse.gif" />Syntax</span></h1><div id="syntaxSection" class="section" name="collapseableSection"><div id="syntaxCodeBlocks" class="code"><span codeLanguage="VisualBasicDeclaration"><table width="100%" cellspacing="0" cellpadding="0"><tr><th align="left">Visual Basic (Declaration)</th></tr><tr><td class="syntax">Public Function SendRequest( _ <br />   ByVal req As <a href="http://msdn2.microsoft.com/en-us/library/System.Object" target="_top">Object</a> _ <br />) As <a href="http://msdn2.microsoft.com/en-us/library/System.Object" target="_top">Object</a></td></tr></table></span><span codeLanguage="CSharp"><table width="100%" cellspacing="0" cellpadding="0"><tr><th align="left">C#</th></tr><tr><td class="syntax">public <a href="http://msdn2.microsoft.com/en-us/library/System.Object" target="_top">object</a> SendRequest(<br />   <a href="http://msdn2.microsoft.com/en-us/library/System.Object" target="_top">object</a> req<br />)</td></tr></table></span><span codeLanguage="ManagedCPlusPlus"><table width="100%" cellspacing="0" cellpadding="0"><tr><th align="left">C++</th></tr><tr><td class="syntax">public:<br /> <a href="http://msdn2.microsoft.com/en-us/library/System.Object" target="_top">Object</a> SendRequest(<br />   <a href="http://msdn2.microsoft.com/en-us/library/System.Object" target="_top">Object</a> req<br />) sealed </td></tr></table></span><span codeLanguage="JSharp"><table width="100%" cellspacing="0" cellpadding="0"><tr><th align="left">J#</th></tr><tr><td class="syntax">public <a href="http://msdn2.microsoft.com/en-us/library/System.Object" target="_top">object</a> SendRequest(<br />   <a href="http://msdn2.microsoft.com/en-us/library/System.Object" target="_top">object</a> req<br />)</td></tr></table></span><span codeLanguage="JScript"><table width="100%" cellspacing="0" cellpadding="0"><tr><th align="left">JScript</th></tr><tr><td class="syntax">public 
+				function SendRequest(<br />   req : <a href="http://msdn2.microsoft.com/en-us/library/System.Object" target="_top">Object</a><br />) : <a href="http://msdn2.microsoft.com/en-us/library/System.Object" target="_top">Object</a></td></tr></table></span></div><h4 class="subHeading">
+					Parameters
+				</h4><dl paramName="req"><dt><i>req</i></dt><dd>A request envelope, a request item or an array of request items of the same type.</dd></dl></div><h1 class="heading"><span style="cursor:default;" onclick="ExpandCollapse(remarksDataToggle)" onkeypress="ExpandCollapse_CheckKey(remarksDataToggle)" tabindex="0"><img id="remarksDataToggle" class="toggle" name="toggleSwitch" src="collapse.gif" />Remarks</span></h1><div id="remarksDataSection" class="section" name="collapseableSection"><p>This method introduces flexibility in how requests can be sent to the Mechanical Turk Web Service.</p></div><h1 class="heading"><span style="cursor:default;" onclick="ExpandCollapse(codeExampleToggle)" onkeypress="ExpandCollapse_CheckKey(codeExampleToggle)" tabindex="0"><img id="codeExampleToggle" class="toggle" name="toggleSwitch" src="collapse.gif" />Example</span></h1><div id="codeExampleSection" class="section" name="collapseableSection"><p><p>The following code samples show the creation of a HIT in 4 different ways (single or batch creation)</p><p>Method 1: Use of the convenience method</p><div class="code" xmlns=""><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th><span class="copyCode" onclick="CopyCode(this)" onkeypress="CopyCode_CheckKey(this)" onmouseover="ChangeCopyCodeIcon(this)" onfocusin="ChangeCopyCodeIcon(this)" onmouseout="ChangeCopyCodeIcon(this)" onfocusout="ChangeCopyCodeIcon(this)" tabindex="0"><img class="copyCodeImage" name="ccImage" align="absmiddle" src="copycode.gif" />Copy Code
+						</span></th></tr><tr><td colspan="2"><pre>
+            CreateHITRequest req = new CreateHITRequest();            
+            req.Title = string.Format("{0} (Test suite: {1})", title, DateTime.Now.ToString("g"));
+            ...
+            CreateHIT hit = new CreateHIT();
+            hit.Request = new CreateHITRequest[] { req };
+            CreateHITResponse response = TestUtil.Client.CreateHIT(hit);
+            </pre></td></tr></table></div><p>Method 2: Use of the generic send method to create a single HIT</p><div class="code" xmlns=""><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th><span class="copyCode" onclick="CopyCode(this)" onkeypress="CopyCode_CheckKey(this)" onmouseover="ChangeCopyCodeIcon(this)" onfocusin="ChangeCopyCodeIcon(this)" onmouseout="ChangeCopyCodeIcon(this)" onfocusout="ChangeCopyCodeIcon(this)" tabindex="0"><img class="copyCodeImage" name="ccImage" align="absmiddle" src="copycode.gif" />Copy Code
+						</span></th></tr><tr><td colspan="2"><pre>
+            CreateHITRequest req = new CreateHITRequest();            
+            req.Title = string.Format("{0} (Test suite: {1})", title, DateTime.Now.ToString("g"));
+            ...
+            CreateHITResponse response = (CreateHITResponse)TestUtil.this.SendRequest(req);
+            </pre></td></tr></table></div><p>Method 3: Use of the generic send method to create a multiple HITs</p><div class="code" xmlns=""><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th><span class="copyCode" onclick="CopyCode(this)" onkeypress="CopyCode_CheckKey(this)" onmouseover="ChangeCopyCodeIcon(this)" onfocusin="ChangeCopyCodeIcon(this)" onmouseout="ChangeCopyCodeIcon(this)" onfocusout="ChangeCopyCodeIcon(this)" tabindex="0"><img class="copyCodeImage" name="ccImage" align="absmiddle" src="copycode.gif" />Copy Code
+						</span></th></tr><tr><td colspan="2"><pre>
+            CreateHITRequest req1 = new CreateHITRequest();            
+            req1.Title = string.Format("{0} (Test suite: {1})", title, DateTime.Now.ToString("g"));
+            ...
+            CreateHITRequest[] reqArray = new CreateHITRequest[] { req1, req2, ..., reqX };
+            CreateHITResponse response = (CreateHITResponse)TestUtil.this.SendRequest(reqArray);
+            </pre></td></tr></table></div><p>Method 4: Use of the generic send method to create a multiple HITs utilizing generics</p><div class="code" xmlns=""><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th><span class="copyCode" onclick="CopyCode(this)" onkeypress="CopyCode_CheckKey(this)" onmouseover="ChangeCopyCodeIcon(this)" onfocusin="ChangeCopyCodeIcon(this)" onmouseout="ChangeCopyCodeIcon(this)" onfocusout="ChangeCopyCodeIcon(this)" tabindex="0"><img class="copyCodeImage" name="ccImage" align="absmiddle" src="copycode.gif" />Copy Code
+						</span></th></tr><tr><td colspan="2"><pre>
+            List&lt;CreateHITRequest&gt; items = new List&lt;CreateHITRequest&gt;;
+            CreateHITRequest req = new CreateHITRequest();            
+            req.Title = string.Format("{0} (Test suite: {1})", title, DateTime.Now.ToString("g"));
+            ...
+            items.Add(req);
+            ...
+            CreateHITResponse response = (CreateHITResponse)TestUtil.this.SendRequest(items.ToArray());
+            </pre></td></tr></table></div></p></div><h1 class="heading"><span style="cursor:default;" onclick="ExpandCollapse(seeAlsoToggle)" onkeypress="ExpandCollapse_CheckKey(seeAlsoToggle)" tabindex="0"><img id="seeAlsoToggle" class="toggle" name="toggleSwitch" src="collapse.gif" />See Also</span></h1><div id="seeAlsoSection" class="section" name="collapseableSection"><a href="T_Amazon_WebServices_MechanicalTurk_MTurkClient.html">MTurkClient Class</a><br /><a href="N_Amazon_WebServices_MechanicalTurk.html">Amazon.WebServices.MechanicalTurk Namespace</a></div></div>
+      <DIV CLASS="footer">
+        <p>
+          <center>
+            <font color="red">
+              <i>
+                Syntax based on .NET Framework version 2.0.<br />
+                Documentation version 1.0.0.0.
+              </i>
+            </font>
+          </center>
+        </p>
+      </DIV>
+      <hr />
+      <div id="footer">Licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a></div><!--[if gte IE 5]><tool:tip element="languageFilterToolTip" avoidmouse="false" /><![endif]--></div>
+  </body>
+</html>

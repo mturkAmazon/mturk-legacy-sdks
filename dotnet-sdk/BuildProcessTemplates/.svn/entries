@@ -1,0 +1,52 @@
+8
+
+dir
+90680
+https://MTurkDotNet.svn.codeplex.com/svn/BuildProcessTemplates
+https://MTurkDotNet.svn.codeplex.com/svn
+
+
+
+2010-07-27T20:28:19.700000Z
+63489
+unknown
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4ef1bfeb-0a34-4d02-9305-240e5b07a168
+
+DefaultTemplate.xaml
+file
+
+
+
+
+2012-04-23T19:20:32.000000Z
+fb2e1efc9d073d9b0181e44eade2b40b
+2010-07-27T20:28:19.700000Z
+63489
+unknown
+
+UpgradeTemplate.xaml
+file
+
+
+
+
+2012-04-23T19:20:32.000000Z
+aa77b456af9615ff14d9679497cc0794
+2010-07-27T20:28:19.700000Z
+63489
+unknown
+

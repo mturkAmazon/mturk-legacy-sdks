@@ -1,0 +1,141 @@
+<!--
+	NAnt script to build the Mechanical Turk .Net SDK
+	Requires environment settings to be set in nant.properties
+-->
+<project name = "Mechanical Turk .Net SDK" default = "rebuild">
+    <include buildfile = "nant.properties"/>
+    <target name = "init">
+        <tstamp
+            property = "build.date"
+            pattern = "yyyyMMdd_hhmm"
+            verbose = "true"/>
+        <property name = "build.dir.base" value = "./builds/${build.date}"/>
+        <property name = "lib.dir" value = "../../Lib"/>
+        <property name = "doc.dir" value = "../../Docs/SDK/Web"/>
+        <mkdir dir = "${build.dir.base}"/>
+        <mkdir dir = "${lib.dir}"/>
+        <property name = "log.file" value = "./builds/${build.date}/nant.log"/>
+        <record
+            name = "${log.file}"
+            level = "Debug"
+            action = "Start"/>
+    </target>
+    <target name = "clean" description = "Delete all previously compiled assemblies">
+        <echo message = "*** Cleaning bin/obj folders in ${src.dir} ***"/>
+        <delete>
+            <fileset basedir = "${src.dir}">
+                <include name = "**/bin/**"/>
+                <include name = "**/obj/**"/>
+            </fileset>
+        </delete>
+    </target>
+    <target name = "wsdl" description = "Create proxy object for Mechanical Turk WSDL">
+        <echo message = "*** Creating C# proxy for Mechanical Turk WSDL ***"/>
+        <wsdl
+            path = "${wsdl.url}"
+            namespace = "Amazon.WebServices.MechanicalTurk.Domain"
+            language = "CS"
+            outfile = "${src.dir}/Amazon.WebServices.MechanicalTurk.Domain\AWSMechanicalTurkRequester.cs"/>
+    </target>
+    <target name = "build" description = "Build the solution">
+        <echo message = "*** Building solution ***"/>
+        <exec
+            program = "${msbuild.exe}"
+            output = "${build.dir.base}/msbuild.log"
+            failonerror = "true">
+            <arg line = "${src.dir}/MechanicalTurk.sln /t:Rebuild /p:Configuration=${configuration}"/>
+        </exec>
+    </target>
+    <target name = "test" description = "Run unit tests">
+        <echo message = "*** Running unit tests ***"/>
+        <nunit2>
+            <formatter
+                type = "Plain"
+                usefile = "true"
+                extension = ".log"
+                outputdir = "./builds/${build.date}"/>
+            <test assemblyname = "${src.dir}\Amazon.WebServices.MechanicalTurk.Test\bin\Amazon.WebServices.MechanicalTurk.Test.exe" appconfig = "${src.dir}/App.config"/>
+        </nunit2>
+    </target>
+    <target name = "doc" description = "Generate SDK documentation">
+        <echo message = "*** Generating SDK documentation ***"/>
+        <delete dir = "./doc"/>
+        <exec program = "${ndoc.exe}" commandline = "-documenter=MSDN-Web -project=MechanicalTurk.${configuration}.ndoc"/>
+    </target>
+    <target name = "signAndMerge" description = "Merges the SDK assemblies into one signed assembly">
+        <if test = "${property::exists('ilmerge.signature')}">
+            <echo message = "*** Signing and merging the SDK assembly ***"/>
+            <exec program = "${ilmerge.exe}" commandline = "/keyfile:${ilmerge.signature} /ver:${sdk.version} /log:${build.dir.base}/ilmerge.log /out:${lib.dir}/Amazon.WebServices.MechanicalTurk.dll /ndebug:false /targetPlatform:v2 ${src.dir}/Amazon.WebServices.MechanicalTurk/bin/${configuration}/Amazon.WebServices.MechanicalTurk.dll ${src.dir}/Amazon.WebServices.MechanicalTurk.Domain/bin/${configuration}/Amazon.WebServices.MechanicalTurk.Domain.dll"/>
+        </if>
+        <if test = "${not property::exists('ilmerge.signature')}">
+            <echo message = "*** Merging the SDK assembly ***"/>
+            <exec program = "${ilmerge.exe}" commandline = "/ver:${sdk.version} /log:${build.dir.base}/ilmerge.log /out:${lib.dir}/Amazon.WebServices.MechanicalTurk.dll /ndebug:false /targetPlatform:v2 ${src.dir}/Amazon.WebServices.MechanicalTurk/bin/${configuration}/Amazon.WebServices.MechanicalTurk.dll ${src.dir}/Amazon.WebServices.MechanicalTurk.Domain/bin/${configuration}/Amazon.WebServices.MechanicalTurk.Domain.dll"/>
+        </if>
+    </target>
+    <target
+        name = "prepareSetup"
+        description = "Prepares all files required by the setup installer"
+        depends = "signAndMerge, doc">
+        <copy file = "${src.dir}/Amazon.WebServices.MechanicalTurk/bin/${configuration}/Amazon.WebServices.MechanicalTurk.xml" tofile = "${lib.dir}/Amazon.WebServices.MechanicalTurk.xml"/>
+        <copy todir = "${doc.dir}">
+            <fileset basedir = "./doc">
+                <include name = "*.css"/>
+                <include name = "*.gif"/>
+                <include name = "*.html"/>
+                <include name = "*.js"/>
+                <include name = "*.png"/>
+            </fileset>
+        </copy>
+    </target>
+    <target
+        name = "setup"
+        description = "Builds the setup project (release build)"
+        depends = "prepareSetup">
+        <!--msbuild can't build setup projects. For now we need to require devenv to do this -->
+        <exec
+            program = "${devenv.exe}"
+            output = "${build.dir.base}/devenv.log"
+            failonerror = "true">
+            <arg line = "${src.dir}/Setup/MechanicalTurk.Setup.sln /build ${configuration} /project Amazon.WebServices.MechanicalTurk.Setup"/>
+        </exec>
+    </target>
+    <target name = "zip" description = "ZIP build results">
+        <echo message = "*** Zipping distributable ***"/>
+        <record name = "${log.file}" action = "Close"/>
+        <property name = "dist.file" value = "./builds/dotnet-aws-mturk-${sdk.version}_${build.date}.zip"/>
+        <zip zipfile = "${dist.file}">
+            <fileset basedir = "${src.dir}/Setup/Amazon.WebServices.MechanicalTurk.Setup/${configuration}">
+                <include name = "*.*"/>
+            </fileset>
+        </zip>
+    </target>
+    <target name = "dist" description = "Send distributable via email">
+        <mail
+            from = "${mail.from}"
+            tolist = "${mail.success.to}"
+            subject = "[Success] New package built for Mechanical Turk .Net SDK (${build.date})"
+            message = "Zip file is attached"
+            mailhost = "${mail.mailhost}">
+            <attachments>
+                <include name = "${dist.file}"/>
+            </attachments>
+        </mail>
+    </target>
+    <target name = "onfailure" description = "NAnt error handler">
+        <record name = "${log.file}" action = "Close"/>
+        <mail
+            from = "${mail.from}"
+            tolist = "${mail.failure.to}"
+            subject = "[Failure] Failed to build Mechanical Turk .Net SDK (${build.date})"
+            message = "The SDK failed to build or unit test. Please inspect the log file for build ${build.date} and fix the issue."
+            mailhost = "${mail.mailhost}">
+            <files>
+                <include name = "${log.file}"/>
+            </files>
+        </mail>
+    </target>
+
+	<!-- Build targets for continuous and release builds -->
+    <target name = "rebuild" depends = "init, clean, wsdl, build, test"/>
+    <target name = "release" depends = "rebuild, setup, zip"/>
+</project>

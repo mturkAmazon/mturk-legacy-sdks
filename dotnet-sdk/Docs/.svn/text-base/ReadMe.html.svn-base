@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>Read Me for Amazon Mechanical Turk SDK for .Net v1.5.0</title><!--
+These style should be copied directly from the common CSS.
+We include them in the document to make distributing files
+easier.
+-->
+
+
+<style type="text/css">
+/* --------------------------------------------- */
+/*  AWS Developer Content Styles                 */
+/* --------------------------------------------- */
+
+body, div, p, td, th {
+    font-family : helvetica,sans-serif, arial;
+    font-size : 12px;
+    color : #000000;
+}
+
+.aws-h1, h1{
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #000000;
+}
+.aws-h2, h2{
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 14px;
+  color: #c60;
+}
+.aws-h3, h3{
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #333333;
+}
+
+/*table ID selector styles*/
+#aws-table {
+  border-top: 1px solid #cccccc;
+  border-left: 1px solid #cccccc;
+  width:95%;
+}
+
+#aws-table td{
+  font-size: 12px;
+  padding: 5px 5px 5px 5px;
+  border-bottom: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+  vertical-align:top;
+}
+
+#aws-table th {
+  font-size: 12px;
+  padding: 5px 5px 5px 5px;
+  border-bottom: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+  vertical-align:top;
+  background-color: #eeeeee;
+  color: #333333;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: left;
+}
+
+/*code, note, and example styles*/
+.programlisting{
+  font-family: "Courier New", Courier, mono;
+  font-size: 12px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: #000066;
+  padding: 5px;
+  background-color: #eff7ff;
+  border: 1px dashed #333;
+  width:75%;
+  display:block;
+}
+.aws-code-inline {
+  font-family: "Courier New", Courier, mono;
+  font-size: 11px;
+}
+.aws-note {
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-left-style: none;
+  border-top-color: #CCCCCC;
+  border-right-color: #CCCCCC;
+  border-bottom-color: #CCCCCC;
+  border-left-color: #CCCCCC;
+  padding: 10px;
+  width:95%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+</style></head><body>
+<h1>Read Me for the Amazon Mechanical Turk SDK for .Net v1.5.0</h1>
+<p>
+  The Amazon Mechanical Turk .Net SDK is a set of libraries and tools designed to make it easier for you to build solutions leveraging Amazon Mechanical Turk.  The goals of the SDK are:
+  <ul>
+    <li>To abstract you from the "muck" of using web services</li>
+    <li>To simplify using the various Amazon Mechanical Turk APIs</li>
+    <li>To allow you to focus more on solving the business problem and less on managing technical details</li>
+  </ul>
+</p>
+<h2>Version Information</h2>
+This distributable contains the Amazon Mechanical Turk SDK for .Net version <strong>1.5.0</strong>.<p/>
+The SDK is compatible with Amazon Mechanical Turk web service version <strong>2011-10-01</strong>.<p/>
+
+<h2>SDK Contents</h2>
+The SDK distributable contains the following content:
+<ul>
+  <li><a href="overview.html" target="_blank">Overview</a> of the Amazon Mechanical Turk SDK for .Net to help you get started with the SDK.</li>
+  <li>Pre-compiled binaries ready to be used for development.</li>
+  <li>Set of sample applications demonstrating various aspects of the SDK and Amazon Mechanical Turk.</li>
+  <li>MSDN style documentation for SDK</li>
+  <li>Source code for SDK and Unit tests</li>
+</ul>
+
+<h2>Revision History</h2>
+<h3>Version 1.0.0 - August 16th, 2007</h3>
+<ul>
+  <li>Initial release</li>
+</ul>
+<h3>Version 1.5.0 - December 1st, 2011</h3>
+<ul>
+  <li>Added HIT Review Policy changes, incl. CreateHIT changes, GetRequesterWorkerStatistics and GetReviewResultsForHIT </li>
+</ul>
+
+
+<h2>Comments, Questions or Feedback</h2>
+If you have any comments, questions or feedback on the Amazon Mechanical Turk .Net SDK or the service in general, please visit the <a href="http://developer.amazonwebservices.com/connect/forum.jspa?forumID=11" target="_blank">Amazon Mechanical Turk discussion forums</a>.
+
+<h2>License</h2>
+Copyright (c) 2007 - 2011 <a href="http://www.amazon.com">Amazon</a> Technologies, Inc.
+<p/>
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+<p/>
+<a href="http://www.apache.org/licenses/LICENSE-2.0">www.apache.org/licenses/LICENSE-2.0</a>
+<p/>
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+</body></html>

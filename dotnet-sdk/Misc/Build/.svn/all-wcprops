@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/3766/Misc/Build
+END
+MechanicalTurk.Debug.ndoc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3766/Misc/Build/MechanicalTurk.Debug.ndoc
+END
+merge.bat
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3766/Misc/Build/merge.bat
+END
+MechanicalTurk.Release.ndoc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3766/Misc/Build/MechanicalTurk.Release.ndoc
+END
+nant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3766/Misc/Build/nant.properties
+END
+nant.build
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3766/Misc/Build/nant.build
+END

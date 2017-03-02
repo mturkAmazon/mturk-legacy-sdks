@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<project SchemaVersion="2.0">
+    <assemblies>
+        <assembly location="..\..\Source\Amazon.WebServices.MechanicalTurk\bin\Debug\Amazon.WebServices.MechanicalTurk.dll" documentation="..\..\Source\Amazon.WebServices.MechanicalTurk\bin\Debug\Amazon.WebServices.MechanicalTurk.XML" />
+    </assemblies>
+    <namespaces>
+        <namespace name="Amazon.WebServices.MechanicalTurk">SDK core classes that enable messaging between the client application and the Mechanical Turk web service</namespace>
+    </namespaces>
+    <documenters>
+        <documenter name="Intellisense">
+            <property name="OutputDirectory" value=".\intellisense\" />
+            <property name="DocumentInternals" value="True" />
+            <property name="DocumentPrivates" value="True" />
+        </documenter>
+        <documenter name="MSDN-Web">
+            <property name="OutputDirectory" value=".\doc\" />
+            <property name="HtmlHelpName" value="Documentation" />
+            <property name="Title" value=".Net SDK Documentation for Amazon Mechanical Turk Requester Service" />
+            <property name="FooterHtml" value="Licensed under the &lt;a href=&quot;http://www.apache.org/licenses/LICENSE-2.0&quot;&gt;Apache License, Version 2.0&lt;/a&gt;" />
+            <property name="DocumentInheritedFrameworkMembers" value="False" />
+        </documenter>
+    </documenters>
+</project>

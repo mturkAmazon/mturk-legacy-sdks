@@ -1,0 +1,438 @@
+Memory before build: 979772
+Initializing Workspace
+Creating Help Project Resources
+Analyzing Assemblies & Merging XML Documentation
+Memory making xml: 2141900
+AssemblyLoader: Loading "C:\dev\DotNet\projects\MTurkSDKDotNet\Amazon.WebServices.MechanicalTurk\bin\Debug\Amazon.WebServices.MechanicalTurk.dll".
+XmlDocCommentLoader: Loaded 'C:\dev\DotNet\projects\MTurkSDKDotNet\Amazon.WebServices.MechanicalTurk\bin\Debug\Amazon.WebServices.MechanicalTurk.XML' (0.155 sec.)
+XmlDocCommentLoader: Cache 344
+Docs found : C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorlib.xml
+XmlDocCommentLoader: Loaded 'C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorlib.xml' (1.037 sec.)
+XmlDocCommentLoader: Cache 14353
+XmlDocCommentLoader: Loaded 'C:\dev\DotNet\tools\NDoc2-Alpha3u\Configuration\Supplemental Docs\en\mscorlib.xml' (0.017 sec.)
+XmlDocCommentLoader: Cache 15375
+AssemblyLoader: Attempting to resolve "Amazon.WebServices.MechanicalTurk.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null".
+AssemblyLoader: Loading "C:\dev\DotNet\projects\MTurkSDKDotNet\Amazon.WebServices.MechanicalTurk\bin\Debug\Amazon.WebServices.MechanicalTurk.Domain.dll".
+AssemblyLoader: Attempting to resolve "System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+AssemblyLoader: Loaded "C:/WINDOWS/assembly/GAC_MSIL/System.Web.Services/2.0.0.0__b03f5f7f11d50a3a/System.Web.Services.dll"
+AssemblyLoader: Attempting to resolve "System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+AssemblyLoader: Loaded "C:/WINDOWS/assembly/GAC_MSIL/System/2.0.0.0__b77a5c561934e089/System.dll"
+Writing namespace Amazon.WebServices.MechanicalTurk...
+    Wrote 7 classes.
+    Wrote 1 enumerations.
+Writing namespace Amazon.WebServices.MechanicalTurk.Advanced...
+    Wrote 3 classes.
+    Wrote 3 interfaces.
+Writing namespace Amazon.WebServices.MechanicalTurk.Exceptions...
+    Wrote 13 classes.
+Completed Amazon.WebServices.MechanicalTurk, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+0.234 sec.
+MakeXML : 1.828 sec.
+Determining Document Structure
+Load Docs for Structure Production: 9.138 msec.
+Building File Map: 6.743 msec.
+Structure Production: 353.949 msec.
+Initializing Documenter
+xslt-preprocess.xslt
+retrieved xslt-preprocess.xslt from Style2005
+    topics_main.xslt
+    retrieved topics_main.xslt from common
+    retrieved common.xslt from common
+    retrieved tags.xslt from Style2005
+    retrieved blank.xslt from common
+    retrieved indices.xslt from common
+    retrieved XLinks.xslt from common
+    retrieved style-common.xslt from Style2005
+    retrieved see-also.xslt from common
+    retrieved syntax.xslt from Style2005
+    retrieved syntax-common.xslt from common
+    retrieved syntax-map.xslt from common
+    retrieved memberscommon.xslt from Style2005
+    retrieved allmembers.xslt from Style2005
+    retrieved event.xslt from common
+    retrieved field.xslt from common
+    retrieved individualmembers.xslt from Style2005
+    retrieved member.xslt from common
+    retrieved memberoverload.xslt from Style2005
+    retrieved namespace.xslt from Style2005
+    retrieved namespacehierarchy.xslt from common
+    retrieved property.xslt from common
+    retrieved type.xslt from Style2005
+    retrieved typehierarchy.xslt from Style2005
+    0.518
+    toc_htmlhelp1.xslt
+    retrieved toc_htmlhelp1.xslt from common
+    0.003
+    toc_htmlhelp2.xslt
+    retrieved toc_htmlhelp2.xslt from common
+    0.001
+    toc_web.xslt
+    retrieved toc_web.xslt from common
+    0.002
+Building stylesheets 1.181
+Building Table-of-Contents
+Building Topic Pages
+271.122   namespace   N_Amazon_WebServices_MechanicalTurk.html
+51.232   namespacehierarchy   Hier_N_Amazon_WebServices_MechanicalTurk.html
+272.932   type   T_Amazon_WebServices_MechanicalTurk_MTurkClient.html
+101.206   allmembers   T_Amazon_WebServices_MechanicalTurk_MTurkClient_Members.html
+18.156   individualmembers   T_Amazon_WebServices_MechanicalTurk_MTurkClient_Properties.html
+11.464   individualmembers   T_Amazon_WebServices_MechanicalTurk_MTurkClient_Methods.html
+91.460   memberoverload   T_Amazon_WebServices_MechanicalTurk_MTurkClient_Constructor.html
+68.097   member   C_Amazon_WebServices_MechanicalTurk_MTurkClient_ctor_.html
+19.474   member   C_Amazon_WebServices_MechanicalTurk_MTurkClient_ctor_9c06dece.html
+110.476   property   P_Amazon_WebServices_MechanicalTurk_MTurkClient_Config.html
+8.319   property   P_Amazon_WebServices_MechanicalTurk_MTurkClient_Throttler.html
+21.175   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_ApproveAssignment.html
+9.131   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_AssignQualification.html
+8.698   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_BlockWorker.html
+9.423   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_ChangeHITTypeOfHIT.html
+9.725   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_CreateHIT.html
+9.869   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_CreateQualificationType.html
+8.663   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_DisableHIT.html
+8.360   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_Dispose.html
+24.828   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_DisposeHIT.html
+8.840   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_ExtendHIT.html
+8.679   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_ForceExpireHIT.html
+9.495   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetAccountBalance.html
+9.808   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetAssignmentsForHIT.html
+9.404   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetBonusPayments.html
+9.859   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetFileUploadURL.html
+8.695   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetHIT.html
+9.673   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetHITsForQualificationType.html
+9.772   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationRequests.html
+9.595   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationScore.html
+8.872   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationType.html
+10.216   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetQualificationsForQualificationType.html
+9.693   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetRequesterStatistic.html
+9.515   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetReviewableHITs.html
+9.681   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GetWorkerAcceptLimit.html
+8.750   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GrantBonus.html
+8.700   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_GrantQualification.html
+9.333   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_Help.html
+8.520   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_NotifyWorkers.html
+8.627   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_RegisterHITType.html
+8.762   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_RejectAssignment.html
+8.894   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_RejectQualificationRequest.html
+8.671   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_RevokeQualification.html
+9.452   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_SearchHITs.html
+10.070   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_SearchQualificationTypes.html
+14.859   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_SendRequest.html
+8.863   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_SendTestEventNotification.html
+8.687   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_SetHITAsReviewing.html
+8.714   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_SetHITTypeNotification.html
+8.573   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_SetWorkerAcceptLimit.html
+7.781   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_UnblockWorker.html
+8.753   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_UpdateQualificationScore.html
+9.094   member   M_Amazon_WebServices_MechanicalTurk_MTurkClient_UpdateQualificationType.html
+7.445   type   T_Amazon_WebServices_MechanicalTurk_MTurkConfig.html
+8.721   allmembers   T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Members.html
+7.914   individualmembers   T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Properties.html
+7.246   individualmembers   T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Methods.html
+7.217   memberoverload   T_Amazon_WebServices_MechanicalTurk_MTurkConfig_Constructor.html
+11.199   member   C_Amazon_WebServices_MechanicalTurk_MTurkConfig_ctor_.html
+8.344   member   C_Amazon_WebServices_MechanicalTurk_MTurkConfig_ctor_5c2b0b74.html
+8.199   member   C_Amazon_WebServices_MechanicalTurk_MTurkConfig_ctor_394cbffa.html
+7.597   property   P_Amazon_WebServices_MechanicalTurk_MTurkConfig_AccessKeyId.html
+16.748   property   P_Amazon_WebServices_MechanicalTurk_MTurkConfig_EnsureQuestionsAreXmlWrappedBeforeSending.html
+7.827   property   P_Amazon_WebServices_MechanicalTurk_MTurkConfig_MaxRetryDelay.html
+8.107   property   P_Amazon_WebServices_MechanicalTurk_MTurkConfig_Proxy.html
+27.979   property   P_Amazon_WebServices_MechanicalTurk_MTurkConfig_SdkVersion.html
+7.664   property   P_Amazon_WebServices_MechanicalTurk_MTurkConfig_SecretAccessKey.html
+7.808   property   P_Amazon_WebServices_MechanicalTurk_MTurkConfig_ServiceEndpoint.html
+7.793   property   P_Amazon_WebServices_MechanicalTurk_MTurkConfig_ValidateQuestionBeforeSending.html
+7.609   property   P_Amazon_WebServices_MechanicalTurk_MTurkConfig_WebsiteURL.html
+8.914   member   M_Amazon_WebServices_MechanicalTurk_MTurkConfig_GetConfig.html
+7.627   member   M_Amazon_WebServices_MechanicalTurk_MTurkConfig_GetPreviewURL.html
+7.403   member   M_Amazon_WebServices_MechanicalTurk_MTurkConfig_ToString.html
+8.358   type   T_Amazon_WebServices_MechanicalTurk_MTurkConstants.html
+7.277   allmembers   T_Amazon_WebServices_MechanicalTurk_MTurkConstants_Members.html
+7.340   individualmembers   T_Amazon_WebServices_MechanicalTurk_MTurkConstants_Fields.html
+35.583   field   F_Amazon_WebServices_MechanicalTurk_MTurkConstants_NotificationVersion.html
+11.233   field   F_Amazon_WebServices_MechanicalTurk_MTurkConstants_ResponseGroupFullAssignment.html
+7.494   field   F_Amazon_WebServices_MechanicalTurk_MTurkConstants_ResponseGroupFullHIT.html
+7.449   type   T_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes.html
+8.108   allmembers   T_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_Members.html
+7.687   individualmembers   T_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_Fields.html
+7.635   field   F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_AbandonmentRateQualification.html
+8.152   field   F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_ApprovalRateQualification.html
+7.521   field   F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_LocaleQualification.html
+7.793   field   F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_RejectionRateQualification.html
+7.644   field   F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_ReturnRateQualification.html
+7.593   field   F_Amazon_WebServices_MechanicalTurk_MTurkSystemQualificationTypes_SubmissionRateQualification.html
+7.243   type   T_Amazon_WebServices_MechanicalTurk_QuestionUtil.html
+9.773   allmembers   T_Amazon_WebServices_MechanicalTurk_QuestionUtil_Members.html
+8.016   individualmembers   T_Amazon_WebServices_MechanicalTurk_QuestionUtil_Methods.html
+7.965   member   M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ConvertMultipleFreeTextQuestionToXML.html
+8.372   member   M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ConvertSingleFreeTextQuestionToXML.html
+8.632   member   M_Amazon_WebServices_MechanicalTurk_QuestionUtil_DeserializeExternalQuestion.html
+8.501   member   M_Amazon_WebServices_MechanicalTurk_QuestionUtil_DeserializeQuestion.html
+8.851   member   M_Amazon_WebServices_MechanicalTurk_QuestionUtil_DeserializeQuestionFormAnswers.html
+8.278   member   M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ReadExternalQuestionFromFile.html
+8.019   member   M_Amazon_WebServices_MechanicalTurk_QuestionUtil_ReadQuestionFromFile.html
+7.764   member   M_Amazon_WebServices_MechanicalTurk_QuestionUtil_SerializeExternalQuestion.html
+8.223   member   M_Amazon_WebServices_MechanicalTurk_QuestionUtil_SerializeQuestion.html
+8.161   type   T_Amazon_WebServices_MechanicalTurk_SimpleClient.html
+20.717   allmembers   T_Amazon_WebServices_MechanicalTurk_SimpleClient_Members.html
+7.196   individualmembers   T_Amazon_WebServices_MechanicalTurk_SimpleClient_Properties.html
+12.194   individualmembers   T_Amazon_WebServices_MechanicalTurk_SimpleClient_Methods.html
+6.775   memberoverload   T_Amazon_WebServices_MechanicalTurk_SimpleClient_Constructor.html
+7.487   member   C_Amazon_WebServices_MechanicalTurk_SimpleClient_ctor_.html
+8.015   member   C_Amazon_WebServices_MechanicalTurk_SimpleClient_ctor_9c06dece.html
+7.344   property   P_Amazon_WebServices_MechanicalTurk_SimpleClient_Config.html
+8.213   property   P_Amazon_WebServices_MechanicalTurk_SimpleClient_Proxy.html
+7.936   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_ApproveAssignment.html
+15.083   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_AssignQualification.html
+7.968   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_BlockWorker.html
+8.380   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_ChangeHITTypeOfHIT.html
+9.257   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT.html
+15.225   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_60b094d1.html
+12.696   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_b86b3dac.html
+12.432   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_427edd07.html
+9.445   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_b168061c.html
+9.206   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_bfee8ebf.html
+7.856   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateHIT_3028992a.html
+8.188   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateQualificationType.html
+12.561   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateQualificationType_b01ecc46.html
+8.596   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_CreateQualificationType_394cbffa.html
+7.017   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT.html
+7.755   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT_16219e3a.html
+8.288   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT_1efbe3fb.html
+9.631   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_DeserializeHIT_578b19be.html
+7.465   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_DisableHIT.html
+7.617   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_DisposeHIT.html
+7.800   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_DisposeQualificationType.html
+8.764   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_ExtendHIT.html
+7.536   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_ForceExpireHIT.html
+7.564   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAccountBalance.html
+9.240   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllAssignmentsForHIT.html
+8.582   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllAssignmentsForHITIterator.html
+8.264   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllHITs.html
+7.778   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllHITsIterator.html
+7.709   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationTypes.html
+7.722   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationTypesIterator.html
+8.171   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationsForQualificationType.html
+9.146   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllQualificationsForQualificationTypeIterator.html
+8.136   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllReviewableHITs.html
+8.109   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAllReviewableHITsIterator.html
+7.336   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT.html
+13.065   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT_1923b522.html
+9.422   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT_94514f2c.html
+8.552   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAssignmentsForHIT_843a3b0f.html
+7.528   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetAvailableAccountBalance.html
+8.921   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetBonusPayments.html
+7.995   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetFileUploadURL.html
+6.888   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHIT.html
+8.125   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHIT_6faf732e.html
+7.695   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHIT_16219e3a.html
+7.297   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs.html
+10.601   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs_fece74d6.html
+8.190   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs_804c5d7d.html
+8.631   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITs_ce48341e.html
+10.277   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetHITsForQualificationType.html
+7.570   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetPreviewURL.html
+7.055   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationRequests.html
+11.275   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationRequests_3f883dbd.html
+9.087   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationRequests_16219e3a.html
+8.122   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationScore.html
+7.774   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationType.html
+7.845   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationTypes.html
+7.529   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationsForQualificationType.html
+10.917   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationsForQualificationType_5b2be494.html
+8.834   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetQualificationsForQualificationType_843a3b0f.html
+11.435   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetRequesterStatistic.html
+7.067   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_GetReviewableHITs.html
+12.165   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetReviewableHITs_dd312e02.html
+9.004   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetReviewableHITs_843a3b0f.html
+8.075   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetTotalNumHITsInAccount.html
+8.861   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GetWorkerAcceptLimit.html
+8.537   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GrantBonus.html
+8.388   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_GrantQualification.html
+9.960   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_Help.html
+8.587   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_NotifyWorkers.html
+9.847   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_RegisterHITType.html
+7.854   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_RejectAssignment.html
+8.273   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_RejectQualificationRequest.html
+8.247   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_RevokeQualification.html
+11.476   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_SearchQualificationTypes.html
+9.178   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_SendTestEmailEventNotification.html
+9.143   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_SendTestEventNotification.html
+7.289   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT.html
+8.497   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT_1aecc258.html
+8.351   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT_499c6659.html
+9.844   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_SerializeHIT_5886c7b6.html
+7.663   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewable.html
+7.051   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewing.html
+8.381   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewing_20517185.html
+7.673   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITAsReviewing_16219e3a.html
+8.443   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetHITTypeNotification.html
+8.112   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_SetWorkerAcceptLimit.html
+7.963   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_UnblockWorker.html
+9.739   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateHIT.html
+8.860   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateHITs.html
+8.581   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationScore.html
+7.126   memberoverload   O_T_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationType.html
+11.475   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationType_bcf292e8.html
+8.597   member   M_Amazon_WebServices_MechanicalTurk_SimpleClient_UpdateQualificationType_5f36dfc2.html
+7.202   type   T_Amazon_WebServices_MechanicalTurk_XmlUtil.html
+7.686   allmembers   T_Amazon_WebServices_MechanicalTurk_XmlUtil_Members.html
+9.438   individualmembers   T_Amazon_WebServices_MechanicalTurk_XmlUtil_Methods.html
+6.895   memberoverload   O_S_T_Amazon_WebServices_MechanicalTurk_XmlUtil_DeserializeXML.html
+8.615   member   M_Amazon_WebServices_MechanicalTurk_XmlUtil_DeserializeXML_42a1d385.html
+8.934   member   M_Amazon_WebServices_MechanicalTurk_XmlUtil_DeserializeXML_251f5c00.html
+6.685   memberoverload   O_S_T_Amazon_WebServices_MechanicalTurk_XmlUtil_SerializeXML.html
+7.669   member   M_Amazon_WebServices_MechanicalTurk_XmlUtil_SerializeXML_b4c5a2da.html
+8.125   member   M_Amazon_WebServices_MechanicalTurk_XmlUtil_SerializeXML_c0cd93a7.html
+8.402   member   M_Amazon_WebServices_MechanicalTurk_XmlUtil_Transform.html
+7.745   member   M_Amazon_WebServices_MechanicalTurk_XmlUtil_ValidateXML.html
+7.459   member   M_Amazon_WebServices_MechanicalTurk_XmlUtil_XmlDecode.html
+7.971   member   M_Amazon_WebServices_MechanicalTurk_XmlUtil_XmlEncode.html
+27.654   type   T_Amazon_WebServices_MechanicalTurk_MTurkSerializationFormat.html
+7.273   namespace   N_Amazon_WebServices_MechanicalTurk_Advanced.html
+6.409   namespacehierarchy   Hier_N_Amazon_WebServices_MechanicalTurk_Advanced.html
+7.392   type   T_Amazon_WebServices_MechanicalTurk_Advanced_HITData.html
+9.565   allmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Members.html
+9.338   individualmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Properties.html
+7.297   memberoverload   T_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Constructor.html
+7.844   member   C_Amazon_WebServices_MechanicalTurk_Advanced_HITData_ctor_.html
+8.297   member   C_Amazon_WebServices_MechanicalTurk_Advanced_HITData_ctor_3028992a.html
+9.222   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_AssignmentDurationInSeconds.html
+8.810   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_AutoApprovalDelayInSeconds.html
+8.600   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_CreationTime.html
+7.575   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Description.html
+8.042   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Expiration.html
+7.976   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITId.html
+10.644   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITReviewStatus.html
+8.906   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITStatus.html
+7.660   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_HITTypeId.html
+7.779   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Keywords.html
+8.885   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_LifetimeInSeconds.html
+8.350   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_MaxAssignments.html
+8.273   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfAssignmentsAvailable.html
+8.235   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfAssignmentsCompleted.html
+8.529   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfAssignmentsPending.html
+8.143   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_NumberOfSimilarHITs.html
+7.997   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_QualificationRequirements.html
+7.658   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Question.html
+7.658   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_RequesterAnnotation.html
+8.392   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Reward.html
+7.431   property   P_Amazon_WebServices_MechanicalTurk_Advanced_HITData_Title.html
+7.521   type   T_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog.html
+7.431   allmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Members.html
+7.305   individualmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Properties.html
+8.149   property   P_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Level.html
+7.626   property   P_Amazon_WebServices_MechanicalTurk_Advanced_MTurkLog_Logger.html
+7.986   type   T_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler.html
+7.572   allmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_Members.html
+7.800   individualmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_Methods.html
+7.560   member   M_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_Dispose.html
+8.835   member   M_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_GetInstance.html
+7.672   member   M_Amazon_WebServices_MechanicalTurk_Advanced_RequestThrottler_ToString.html
+14.542   type   T_Amazon_WebServices_MechanicalTurk_Advanced_ILog.html
+7.740   allmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Members.html
+7.596   individualmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Methods.html
+26.070   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Debug.html
+7.953   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Error.html
+7.986   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Info.html
+7.627   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ILog_Warn.html
+12.992   type   T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig.html
+7.180   allmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig_Members.html
+7.243   individualmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig_Properties.html
+7.895   property   P_Amazon_WebServices_MechanicalTurk_Advanced_ITurkConfig_Config.html
+7.751   type   T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations.html
+10.905   allmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_Members.html
+10.557   individualmembers   T_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_Methods.html
+8.627   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ApproveAssignment.html
+7.904   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_AssignQualification.html
+8.191   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_BlockWorker.html
+7.712   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ChangeHITTypeOfHIT.html
+7.877   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_CreateHIT.html
+8.347   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_CreateQualificationType.html
+7.882   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_DisableHIT.html
+7.829   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_DisposeHIT.html
+7.686   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ExtendHIT.html
+8.282   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_ForceExpireHIT.html
+8.347   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetAccountBalance.html
+8.081   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetAssignmentsForHIT.html
+7.912   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetBonusPayments.html
+7.941   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetFileUploadURL.html
+7.883   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetHIT.html
+8.238   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetHITsForQualificationType.html
+8.180   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationRequests.html
+8.432   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationScore.html
+7.887   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationType.html
+8.252   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetQualificationsForQualificationType.html
+8.336   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetRequesterStatistic.html
+8.034   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetReviewableHITs.html
+7.875   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GetWorkerAcceptLimit.html
+7.756   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GrantBonus.html
+7.826   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_GrantQualification.html
+8.566   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_Help.html
+7.820   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_NotifyWorkers.html
+8.385   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RegisterHITType.html
+7.864   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RejectAssignment.html
+8.798   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RejectQualificationRequest.html
+8.156   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_RevokeQualification.html
+8.367   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SearchHITs.html
+8.065   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SearchQualificationTypes.html
+8.342   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SendTestEventNotification.html
+7.851   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SetHITAsReviewing.html
+8.438   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SetHITTypeNotification.html
+7.837   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_SetWorkerAcceptLimit.html
+7.598   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_UnblockWorker.html
+7.897   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_UpdateQualificationScore.html
+8.296   member   M_Amazon_WebServices_MechanicalTurk_Advanced_ITurkOperations_UpdateQualificationType.html
+7.603   namespace   N_Amazon_WebServices_MechanicalTurk_Exceptions.html
+7.841   namespacehierarchy   Hier_N_Amazon_WebServices_MechanicalTurk_Exceptions.html
+7.747   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_AccessKeyException.html
+15.079   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_AccessKeyException_Members.html
+8.662   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_AccessKeyException_ctor.html
+8.228   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_ExceedsMaxAssignmentsPerWorkerException.html
+8.018   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_ExceedsMaxAssignmentsPerWorkerException_Members.html
+8.347   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_ExceedsMaxAssignmentsPerWorkerException_ctor.html
+7.880   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_InsufficientFundsException.html
+7.928   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_InsufficientFundsException_Members.html
+8.150   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_InsufficientFundsException_ctor.html
+8.204   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidParameterValueException.html
+8.715   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidParameterValueException_Members.html
+8.363   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidParameterValueException_ctor.html
+7.845   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidStateException.html
+8.892   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidStateException_Members.html
+7.905   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidStateException_ctor.html
+7.949   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidTransportEndpointException.html
+7.974   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidTransportEndpointException_Members.html
+8.941   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_InvalidTransportEndpointException_ctor.html
+8.023   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_NoHITsAvailableException.html
+8.283   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_NoHITsAvailableException_Members.html
+7.978   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_NoHITsAvailableException_ctor.html
+8.245   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectAlreadyExistsException.html
+8.106   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectAlreadyExistsException_Members.html
+8.465   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectAlreadyExistsException_ctor.html
+8.173   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectDoesNotExistException.html
+15.711   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectDoesNotExistException_Members.html
+7.994   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_ObjectDoesNotExistException_ctor.html
+7.809   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_ParseErrorException.html
+7.949   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_ParseErrorException_Members.html
+8.121   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_ParseErrorException_ctor.html
+8.432   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_PermissionDeniedException.html
+7.831   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_PermissionDeniedException_Members.html
+8.772   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_PermissionDeniedException_ctor.html
+8.853   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_QualificationTypeRetryException.html
+7.970   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_QualificationTypeRetryException_Members.html
+7.952   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_QualificationTypeRetryException_ctor.html
+7.770   type   T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException.html
+25.807   typehierarchy   T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_DerivedTypes.html
+8.610   allmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_Members.html
+7.283   individualmembers   T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_Properties.html
+7.419   memberoverload   T_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_Constructor.html
+8.458   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_d460c748.html
+8.296   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_fa24a138.html
+8.375   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_c5dc849a.html
+8.045   member   C_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ctor_56cf569e.html
+8.545   property   P_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ErrorCode.html
+7.501   property   P_Amazon_WebServices_MechanicalTurk_Exceptions_ServiceException_ServiceResponse.html
+It took 5 seconds to make the html
+Completing Help Project Resources
+Writing documentation to output path
+Build Completed.
+The build took a total of 14 seconds
