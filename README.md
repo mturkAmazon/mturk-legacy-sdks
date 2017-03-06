@@ -1,2 +1,8 @@
-# mturk-legacy-sdks
-Legacy SDKs for the Amazon Mechanical Turk Service, compatible with API versions 2014-08-15 and lower.
+# Amazon Mechanical Turk Legacy SDKs 
+On February 27th 2017, Amazon Mechanical Turk (MTurk) launched support for the [AWS Software Development Kits](https://aws.amazon.com/tools/). Requesters can now programmatically access MTurk with eight new SDKs.
+
+As part of this launch, MTurk also released a [new version](http://docs.aws.amazon.com/AWSMechTurk/latest/AWSMturkAPI/Welcome.html) (‘2017–01–17’) of the Requester API. This version significantly updates naming conventions used in the API and adopts the latest and most secure AWS authentication and authorization standard of [Signature Version 4](http://docs.aws.amazon.com/general/latest/gr/signature-version-4.html) which is a significant improvement over our previous authentication mechanism. The API uses REST requests to exchange data and no longer requires developers to also be familiar with SOAP. These changes make the MTurk API more consistent with other AWS APIs, simplifying the on-boarding process for both new and existing AWS developers. You can explore the full API reference documentation [here](http://docs.aws.amazon.com/AWSMechTurk/latest/AWSMturkAPI/Welcome.html).
+
+Customers using the previous version of our API ('2014-08-15') with the Mechanical Turk SDKs will not be affected by this change and can continue to operate as before. You can find the all the documentation for that version of the API [here](http://docs.aws.amazon.com/AWSMechTurk/latest/AWSMturkAPI-legacy/Welcome.html). 
+
+This repo contains archived versions of the legacy Mechanical Turk SDKs that are compatible with the '2014-08-15' version of the MTurk API.
