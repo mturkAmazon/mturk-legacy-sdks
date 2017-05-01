@@ -93,7 +93,7 @@ public abstract class AWSService {
 
   static {
     httpHeaders = new Hashtable<String, String>(1);
-    httpHeaders.put(HTTP_HEADER_AMAZON_SOFTWARE, "MTurkJavaSDK/1.7.1");
+    httpHeaders.put(HTTP_HEADER_AMAZON_SOFTWARE, "MTurkJavaSDK/1.7.2");
   }
   
   protected ClientConfig config = null;

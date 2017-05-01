@@ -3,7 +3,7 @@
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-<title>Read Me for Amazon Mechanical Turk SDK for Java v1.7.1</title>
+<title>Read Me for Amazon Mechanical Turk SDK for Java v1.7.2</title>
 <!--
 These style should be copied directly from the common CSS.
 We include them in the document to make distributing files
@@ -104,17 +104,17 @@ body, div, p, td, th {
   margin-right: 20px;
 }
 </style></head><body>
-<h1>Read Me for the Amazon Mechanical Turk SDK for Java v1.7.1</h1>
+<h1>Read Me for the Amazon Mechanical Turk SDK for Java v1.7.2</h1>
 <p>
   The Amazon Mechanical Turk SDK for Java is a set of libraries and tools designed to make it easier for you to build solutions leveraging Amazon Mechanical Turk.  The goals of the SDK are:
   <ul>
-    <li>To abstract you from the "muck" of using web services</li>
+    <li>To abstract away the complexities of using a web service</li>
     <li>To simplify using the various Amazon Mechanical Turk APIs</li>
     <li>To allow you to focus more on solving the business problem and less on managing technical details</li>
   </ul>
 </p>
 <h2>Version Information</h2>
-This distributable contains the Amazon Mechanical Turk SDK for Java version <strong>1.7.1</strong>.<br/>
+This distributable contains the Amazon Mechanical Turk SDK for Java version <strong>1.7.2</strong>.<br/>
 The SDK is compatible with Amazon Mechanical Turk web service version <strong>2014-08-15</strong>.<br/>
 The Amazon Mechanical Turk team would appreciate any comments and feedback on the SDK.<br/>
 Please submit issues on the SourceForge <a href="http://sourceforge.net/projects/mturksdk-java" target="_blank">project</a>.
@@ -131,9 +131,14 @@ The SDK distributable contains the following content:
 
 <h2>Revision History</h2>
 
+<h3>Version 1.7.2 - May 1st, 2017</h3>
+<ul>
+    <li>Security Update: upgraded Apache Commons Collections dependency from version 3.1 to 3.2.2</li>
+</ul>
+
 <h3>Version 1.7.1 - December 8, 2016</h3>
 <ul>
-  <li>Fixed: Support for Qualifications comparators</li>
+  <li>Fixed: Support for Qualifications comparators "In", "NotIn" and "DoesNotExist"</li>
   <li>Fixed: Support for sending test event notifications to SQS</li>
   <li>Added: New sample code demonstrating how to send test event notifications called "test_event" in the Samples folder</li>
 </ul>

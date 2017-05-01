@@ -381,30 +381,6 @@
         <pathelement path="${sdk.test.classes.dir}" />
       </classpath>
     </java>
-    <echo message="Running the TestHITProperties test suite..." />
-    <java dir="${sdk.test.classes.dir}" classname="com.amazonaws.mturk.test.TestHITProperties" fork="true">
-      <classpath>
-        <path refid="test.classpath" />
-        <pathelement location="${lib.dir}/${sdk.name}-test.jar" />
-        <pathelement path="${sdk.test.classes.dir}" />
-      </classpath>
-    </java>
-    <echo message="Running the TestHITQuestion test suite..." />
-    <java dir="${sdk.test.classes.dir}" classname="com.amazonaws.mturk.test.TestHITQuestion" fork="true">
-      <classpath>
-        <path refid="test.classpath" />
-        <pathelement location="${lib.dir}/${sdk.name}-test.jar" />
-        <pathelement path="${sdk.test.classes.dir}" />
-      </classpath>
-    </java>
-    <echo message="Running the TestFileUtil test suite..." />
-    <java dir="${sdk.test.classes.dir}" classname="com.amazonaws.mturk.test.TestFileUtil" fork="true">
-      <classpath>
-        <path refid="test.classpath" />
-        <pathelement location="${lib.dir}/${sdk.name}-test.jar" />
-        <pathelement path="${sdk.test.classes.dir}" />
-      </classpath>
-    </java>
   </target>
 
   <target name="doc" depends="wsdl-jar,dataschema-jar" description="Generates Javadoc" >
